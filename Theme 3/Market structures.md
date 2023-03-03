@@ -1,3 +1,4 @@
+[[CC2.pdf]]
 The characteristics of a market, which determine firms' behaviour.
 
 | Revenue         | Description                                                            | Equation                            |

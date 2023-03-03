@@ -11,10 +11,11 @@
             "id": "dd1af867258b2623",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Theme 4/Constraints to economic development.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Theme 4/Constraints to economic development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Theme 4/Constraints to economic development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Theme 4/Constraints to economic development.md"
+              }
             }
           }
         ],
@@ -155,12 +159,28 @@
   },
   "active": "dd1af867258b2623",
   "lastOpenFiles": [
+    "Theme 3/Oligopoly.md",
+    "Theme 3/Market structures.md",
+    "Theme 3/Labour markets.md",
+    "Theme 3/Introduction to theory of the firm.md",
+    "Theme 3/Government intervention.md",
+    "Theme 4/Constraints to economic development.md",
+    "Theme 4/Macroeconomic policies.md",
+    "Theme 4/Strategies for development.md",
+    "Theme 4/Inequality & poverty.md",
+    "Theme 4/Globalisation.md",
+    "Theme 4/Financial markets.md",
+    "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
+    "Theme 4/Trading blocs and patterns of trade.md",
+    "Theme 4/Trade.md",
+    "NetFolder/Theme 4 A Global perspective/CC3 Globalisation and FDI - 2020-21.pdf",
+    "NetFolder/Theme 4 A Global perspective/CC2 - Specialisation & Trade 2020-21.pdf",
+    "NetFolder/Theme 4 A Global perspective/CC4 trade blocs and patterns Rob & Simon 2019-20.pdf",
     "Images/Pasted image 20230117212201.png",
     "Images/Pasted image 20230117212018.png",
     "Images/Pasted image 20230117192614.png",
     "Images/Pasted image 20230117185304.png",
     "Images/Pasted image 20230116133333.png",
-    "Theme 4/Trading blocs and patterns of trade.md",
     "NetFolder/Theme 2 The UK economy performance and policies/CC1 Introduction to macroeconomics 2018.pdf",
     "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjnr.tmp",
     "NetFolder/Theme 2 The UK economy performance and policies/CC2 AS & AS.pdf",
@@ -168,22 +188,6 @@
     "NetFolder/Theme 2 The UK economy performance and policies/CC3 growth.pdf",
     "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjnl.tmp",
     "NetFolder/Theme 2 The UK economy performance and policies/CC4_unemployment.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjni.tmp",
-    "NetFolder/Theme 2 The UK economy performance and policies/CC5 inflation.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjnf.tmp",
-    "Theme 4/Strategies for development.md",
-    "Theme 4/Macroeconomic policies.md",
-    "Theme 4/Inequality & poverty.md",
-    "Theme 4/Globalisation.md",
-    "Theme 4/Financial markets.md",
-    "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
-    "Theme 4/Constraints to economic development.md",
-    "Theme 3/Government intervention.md",
-    "Theme 3/Labour markets.md",
-    "Theme 3/Introduction to theory of the firm.md",
-    "Theme 3/Market structures.md",
-    "Theme 3/Oligopoly.md",
-    "conflict-files-obsidian-git.md",
-    "Theme 4/Trade.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

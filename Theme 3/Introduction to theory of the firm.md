@@ -1,3 +1,4 @@
+[[CC1.pdf]]
 # Production
 In the short run, where one or more factor of production is fixed, output is related to the combination of land, labour and capital. To increase production you would increase a factor of an industry's inputs.
 

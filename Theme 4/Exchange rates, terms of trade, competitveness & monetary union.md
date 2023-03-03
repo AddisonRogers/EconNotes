@@ -1,3 +1,4 @@
+[[CC5 Exchange rates & Monetary union Simon's version.pdf]]
 # Exchange rates 
 
 Key definitions:

@@ -1,3 +1,4 @@
+[[CC3 Globalisation and FDI - 2020-21.pdf]]
 The ever increasing integration of the worlds' local regional and national economies into a single international market. The increasing international interdependence of economic agents.
 
 Globalisation leads to:

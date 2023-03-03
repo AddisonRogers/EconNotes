@@ -1,3 +1,4 @@
+[[CC2 - Specialisation & Trade 2020-21.pdf]]
 Countries trade with each other to get a better cost for goods and services or to get goods and services unavailable in their countries.
 
 ## Absolute advantage
