@@ -46,5 +46,70 @@
     "maxNumberOfHistoryToKeep": 0
   },
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {}
+  "selectionHistoryTree": {
+    "development": {
+      "development": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1677850890767
+        }
+      }
+    },
+    "quality": {
+      "quality": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677849973172
+        }
+      }
+    },
+    "living": {
+      "living": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677850114154
+        }
+      }
+    },
+    "well-being": {
+      "well-being": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677850703835
+        }
+      }
+    },
+    "dimensions": {
+      "dimensions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677850797971
+        }
+      }
+    },
+    "Index": {
+      "Index": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677851024228
+        }
+      }
+    },
+    "Strategies for development": {
+      "Strategies for development": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677851174850
+        }
+      }
+    },
+    "infrastructure": {
+      "infrastructure": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677851290291
+        }
+      }
+    }
+  }
 }
