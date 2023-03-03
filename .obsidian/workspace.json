@@ -11,9 +11,10 @@
             "id": "dd1af867258b2623",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "diff-view",
               "state": {
-                "file": "Images/Pasted image 20230117212201.png"
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -92,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230117212201.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20230117212201.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Images/Pasted image 20230117212201.png"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,8 +153,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "dd1af867258b2623",
   "lastOpenFiles": [
+    "Images/Pasted image 20230117212201.png",
     "Images/Pasted image 20230117212018.png",
     "Images/Pasted image 20230117192614.png",
     "Images/Pasted image 20230117185304.png",
