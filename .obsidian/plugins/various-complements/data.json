@@ -110,6 +110,54 @@
           "lastUpdated": 1677851290291
         }
       }
+    },
+    "Education": {
+      "Education": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677852464112
+        }
+      }
+    },
+    "capital": {
+      "capital": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677852489348
+        }
+      }
+    },
+    "dependency": {
+      "dependency": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1677853312188
+        }
+      }
+    },
+    "commodities": {
+      "commodities": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677853333839
+        }
+      }
+    },
+    "resources": {
+      "resources": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677853420300
+        }
+      }
+    },
+    "competitiveness": {
+      "competitiveness": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677853710242
+        }
+      }
     }
   }
 }
