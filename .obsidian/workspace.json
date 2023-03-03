@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "7768392d9dce035c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f161bad8b341c6f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NetFolder/Theme 4 A Global perspective/CC1 Factors affecting development 2019 Jill and Simon's version.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -157,22 +174,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd1af867258b2623",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
+    "NetFolder/Theme 4 A Global perspective/CC1 Factors affecting development 2019 Jill and Simon's version.pdf",
+    "Theme 4/Constraints to economic development.md",
+    "Theme 4/Trading blocs and patterns of trade.md",
+    "Theme 4/Trade.md",
+    "Theme 4/Strategies for development.md",
+    "Theme 4/Macroeconomic policies.md",
+    "Theme 4/Inequality & poverty.md",
+    "Theme 4/Globalisation.md",
+    "Theme 4/Financial markets.md",
+    "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
     "Theme 3/Oligopoly.md",
     "Theme 3/Market structures.md",
     "Theme 3/Labour markets.md",
     "Theme 3/Introduction to theory of the firm.md",
     "Theme 3/Government intervention.md",
-    "Theme 4/Constraints to economic development.md",
-    "Theme 4/Macroeconomic policies.md",
-    "Theme 4/Strategies for development.md",
-    "Theme 4/Inequality & poverty.md",
-    "Theme 4/Globalisation.md",
-    "Theme 4/Financial markets.md",
-    "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
-    "Theme 4/Trading blocs and patterns of trade.md",
-    "Theme 4/Trade.md",
     "NetFolder/Theme 4 A Global perspective/CC3 Globalisation and FDI - 2020-21.pdf",
     "NetFolder/Theme 4 A Global perspective/CC2 - Specialisation & Trade 2020-21.pdf",
     "NetFolder/Theme 4 A Global perspective/CC4 trade blocs and patterns Rob & Simon 2019-20.pdf",
