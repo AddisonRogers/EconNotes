@@ -14,7 +14,6 @@ Standard of living: The economic well-being of the population including access t
 - It is difficult to value the output of the public sector. ie spending on health might be high.
 - GDP figures are not as useful as GNP figures which include money flows into and out of the economy.
 
-
 ### The human development index (HDI)
 HDI is calculated by the United Nations. It is used as an indicator of the level of development of a country. The HDI was introduced to give a broader definition of well-being than just GDP and provides a composite measure of three basic dimensions of human development. The three dimensions measure:
 - Education. The mean years of schooling for an adult aged 25 and expected years of schooling for a pre-school child.
@@ -59,6 +58,10 @@ Producers of manufactured goods can differentiate their products from those of c
 ### Primary product dependency 
 Primary product dependency is a heavy reliance on a narrow range of products, often commodity products. The commodity/commodities account for: a large % of employment, a large % of GDP and or a large % of exports.
 
-Commodities and natural resources should bring economic growth and development to those countries with abundant natural resources. However, there are a number of reasons why having an abundance of natural resources might lead to a resource curse.
-- Fluctuating commodity prices. Volatile commodity prices can create problems for countries that depend on them.
-- Dutch disease. The negative impact on a economy due to a sharp inflow of foreign currency causes a currency appreciation making the other products a country makes less price competitive
+Commodities and natural resources should bring economic growth and development to those countries with abundant natural resources. However, there are a number of reasons why having an abundance of natural resources might lead to a resource curse such as:
+- #### Fluctuating commodity prices. 
+	Volatile commodity prices can create problems for countries that depend on them.
+- #### Dutch disease. 
+	The negative impact on a economy due to a sharp inflow of foreign currency causes a currency appreciation making the other products a country makes less price competitive
+- #### The Prebisch-Singer hypothesis
+	This theory suggests that the terms of trade between primary products and manufactured goods tend to deteriorate over time.

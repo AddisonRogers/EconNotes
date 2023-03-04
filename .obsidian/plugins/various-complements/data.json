@@ -158,6 +158,30 @@
           "lastUpdated": 1677853710242
         }
       }
+    },
+    "primary": {
+      "primary": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677897100505
+        }
+      }
+    },
+    "products": {
+      "products": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677897104499
+        }
+      }
+    },
+    "manufactured": {
+      "manufactured": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677897106921
+        }
+      }
     }
   }
 }
