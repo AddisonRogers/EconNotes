@@ -48,7 +48,6 @@ Typical changes in population growth rates over time as a country becomes more d
 **Dependency ratio** measures the ratio of dependent population to the working age population.
 
 ### Volatility of commodity prices
-
 - Commodity markets: These are markets concerned with raw materials, such as precious metals and minerals, and agricultural products.
 - Hard commodities: These are natural resources that are mined or extracted.
 - Soft commodities: These are agricultural products or livestock. 
@@ -78,11 +77,28 @@ However, problems may arise in country as a whole for a variety of reasons like:
 - Corruption developing for private gain.
 
 ### Poor governance, corruption and absence of property rights.
-
 Good governance is characterised by:
 - Democratic systems.
 - Justice and rule of law.
 - Sound management of public finances.
 - Control of corruption.
 Poor governance is characterised by corruption:
-- 
+- Embezzlement.
+- Resources may be allocated on the basis of bribes rather than on the basis of greatest net benefit.
+- Corruption may involve confiscation of property.
+- Government may spend money on weapons or other political instruments.
+
+Corruption can be generally measured using the [corruption perception index (CPI)](https://www.transparency.org/en/cpi/2022) which ranks countries by perceived levels of public sector corruption. 
+
+### Access to credit and banking.
+In developed countries, individuals, firms and governments have access to sophisticated financial systems that allow them to save money with interest and to borrow money. The poorer the developing country the less likely individuals and businesses will have access to such financial institutions. [[Inequality & poverty#Microfinance]] 
+
+### Savings gap: Harrod-Domar Model 
+Savings gap is the difference between the actual level of savings in an economy and the level of savings needed to finance the investment required for a higher rate of economic growth. Harrod-Domar grwoth model is a Keynesian model which suggests that economic growth is dependent on the savings ratio and capital-output ratio (opportunity cost over time). 
+
+### Foreign currency gap
+The difference between the actual level of exports and the level of exports needed to create higher economics growth for an economy. 
+A developing country faces a shortage of the foreign currency required to pay for imports needed for growth/development. They will be unable to buy imports unless they are able to borrow from abroad or sell assets to obtain the foreign currency needed to pay for imports needed for growth/development. 
+
+### Capital flight
+When savings are sent abroad by citizens and firms of a country to another country which is either seen as being more secure or where the money can be hidden from government authorities. Capital flight occurs when citizens/businesses send their money abroad by buying foreign currency and other foreign assets.

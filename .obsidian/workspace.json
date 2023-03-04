@@ -6,7 +6,7 @@
       {
         "id": "3339a7af88a57c60",
         "type": "tabs",
-        "dimension": 71.23862841147655,
+        "dimension": 50.5173463177115,
         "children": [
           {
             "id": "dd1af867258b2623",
@@ -25,7 +25,7 @@
       {
         "id": "7768392d9dce035c",
         "type": "tabs",
-        "dimension": 28.761371588523442,
+        "dimension": 49.48265368228849,
         "children": [
           {
             "id": "5f161bad8b341c6f",
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 537.5
+    "width": 361.5
   },
   "right": {
     "id": "175a0a7b9db6a366",
@@ -176,11 +176,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd1af867258b2623",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
-    "Images/Pasted image 20230303141243.png",
     "NetFolder/Theme 4 A Global perspective/CC1 Factors affecting development 2019 Jill and Simon's version.pdf",
     "Theme 4/Constraints to economic development.md",
+    "Images/Pasted image 20230303141243.png",
     "Theme 4/Trading blocs and patterns of trade.md",
     "Theme 4/Trade.md",
     "Theme 4/Strategies for development.md",
