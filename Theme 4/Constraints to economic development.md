@@ -64,4 +64,25 @@ Commodities and natural resources should bring economic growth and development t
 - #### Dutch disease. 
 	The negative impact on a economy due to a sharp inflow of foreign currency causes a currency appreciation making the other products a country makes less price competitive
 - #### The Prebisch-Singer hypothesis
-	This theory suggests that the terms of trade between primary products and manufactured goods tend to deteriorate over time.
+	This theory suggests that the terms of trade between primary products and manufactured goods tend to deteriorate over time. This theory is entirely based off the thought that as demand for commodities is income inelastic demand will not decrease or increase as time goes on. Therefore, as income rises, the demand for manufactured goods will rise relative to the demand for primary products. 
+	The PSH suggests that when such countries gain from high world commodity prices, this may be temporary and threaten the macroeconomic stability of such countries. 
+	Because of this, the advice for these countries is to use the revenue from primary commodity
+	exports to fund economic development and a greater diversity of output.
+
+However, problems may arise in country as a whole for a variety of reasons like:
+- Civil war over ownership of resources.
+- Lack of investment in other industries.
+- Dutch Disease.
+- Prebisch-Singer hypothesis.
+- Large multinationals owning rights to natural resources and exploiting them with profits going to overseas shareholders and little local employment.
+- Corruption developing for private gain.
+
+### Poor governance, corruption and absence of property rights.
+
+Good governance is characterised by:
+- Democratic systems.
+- Justice and rule of law.
+- Sound management of public finances.
+- Control of corruption.
+Poor governance is characterised by corruption:
+- 
