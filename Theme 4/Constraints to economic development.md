@@ -102,3 +102,6 @@ A developing country faces a shortage of the foreign currency required to pay fo
 
 ### Capital flight
 When savings are sent abroad by citizens and firms of a country to another country which is either seen as being more secure or where the money can be hidden from government authorities. Capital flight occurs when citizens/businesses send their money abroad by buying foreign currency and other foreign assets.
+Capital flight has a strongly negative effect on the economy, as corruption and embezzlement of public resources reduce governments revenue. The government's capability to finance social services and other public investments is greatly eroded due to such drains on the resources. 
+
+### Debt

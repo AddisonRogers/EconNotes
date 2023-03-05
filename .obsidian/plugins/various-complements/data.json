@@ -270,6 +270,30 @@
           "lastUpdated": 1677941272927
         }
       }
+    },
+    "economy": {
+      "economy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678025052793
+        }
+      }
+    },
+    "embezzlement": {
+      "embezzlement": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678025060641
+        }
+      }
+    },
+    "services": {
+      "services": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678025256287
+        }
+      }
     }
   }
 }
