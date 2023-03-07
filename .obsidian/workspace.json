@@ -6,7 +6,7 @@
       {
         "id": "3339a7af88a57c60",
         "type": "tabs",
-        "dimension": 46.86742817583939,
+        "dimension": 50.5173463177115,
         "children": [
           {
             "id": "dd1af867258b2623",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 4/Strategies for development.md",
+                "file": "Theme 4/Constraints to economic development.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,30 +25,19 @@
       {
         "id": "7768392d9dce035c",
         "type": "tabs",
-        "dimension": 53.132571824160614,
+        "dimension": 49.48265368228849,
         "children": [
           {
-            "id": "41adfe9600ae4e43",
+            "id": "5f161bad8b341c6f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "NetFolder/Theme 4 A Global perspective/CC8-Strategies promoting development 2020.pdf"
-              }
-            }
-          },
-          {
-            "id": "65ca38219d807228",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf"
+                "file": "NetFolder/Theme 4 A Global perspective/CC1 Factors affecting development 2019 Jill and Simon's version.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,11 +91,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 361.5
   },
   "right": {
     "id": "175a0a7b9db6a366",
@@ -122,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
+                "file": "Theme 4/Constraints to economic development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
+                "file": "Theme 4/Constraints to economic development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,11 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf"
+                "file": "Theme 4/Constraints to economic development.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,20 +176,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65ca38219d807228",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
-    "NetFolder/Theme 4 A Global perspective/CC8-Strategies promoting development 2020.pdf",
-    "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
-    "Theme 4/Strategies for development.md",
-    "Theme 4/Constraints to economic development.md",
     "Images/Pasted image 20230306223921.png",
     "Images/Pasted image 20230306223907.png",
     "Images/Pasted image 20230306223852.png",
     "Images/Pasted image 20230306223604.png",
-    "Images/Pasted image 20230303141243.png",
+    "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
     "NetFolder/Theme 4 A Global perspective/CC1 Factors affecting development 2019 Jill and Simon's version.pdf",
+    "Theme 4/Constraints to economic development.md",
+    "Images/Pasted image 20230303141243.png",
     "Theme 4/Trading blocs and patterns of trade.md",
     "Theme 4/Trade.md",
+    "Theme 4/Strategies for development.md",
     "Theme 4/Macroeconomic policies.md",
     "Theme 4/Inequality & poverty.md",
     "Theme 4/Globalisation.md",
@@ -221,6 +211,7 @@
     "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjnr.tmp",
     "NetFolder/Theme 2 The UK economy performance and policies/CC2 AS & AS.pdf",
     "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjno.tmp",
+    "NetFolder/Theme 2 The UK economy performance and policies/CC3 growth.pdf",
     "conflict-files-obsidian-git.md"
   ]
 }
