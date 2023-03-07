@@ -145,7 +145,7 @@ PIIGS is a derisive acronym for Portugal, Italy, Ireland, Greece and Spain which
 ##### Morality is for suckers
 Putting aside any moral obligation to help LEDCs manage their debt, debt write-offs can result in LEDCs relying off creditors to bail them out instead of addressing underlying structural problems.
 ### Geography
-Geography makes a big difference in a countries growth. ie if the country has little to no arable resources or difficult to live in then it will likely struggle to grow unless supplied by other states. However the biggest contributing factor toward economic development and growth is access to Oceans. For example the Blue/Yellow Banna and the Northeast megalopolis are the highest GDP concentration in their respective areas.
+Geography makes a big difference in a countries growth. ie if the country has little to no arable resources or difficult to live in then it will likely struggle to grow unless supplied by other states. However the biggest contributing factor toward economic development and growth is access to Oceans. For example the Blue/Yellow Banana and the Northeast megalopolis are the highest GDP concentration in their respective areas.
 ![[Pasted image 20230306223604.png]]
 ![[Pasted image 20230306223907.png|700]]
 ![[Pasted image 20230306223852.png|700]]
