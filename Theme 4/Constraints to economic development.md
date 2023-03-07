@@ -105,3 +105,50 @@ When savings are sent abroad by citizens and firms of a country to another count
 Capital flight has a strongly negative effect on the economy, as corruption and embezzlement of public resources reduce governments revenue. The government's capability to finance social services and other public investments is greatly eroded due to such drains on the resources. 
 
 ### Debt
+Many governments of LEDCs borrow heavily and the burden of interest and repayment can grow to be a significant % of GDP. This means that many countries are unable to grow for a long term and often default on their loans. 
+Default is the failure to promptly pay interest or principal when due.
+
+Countries can either borrow traditionally via the IMF or via **Bonds**.
+
+#### Bonds 
+A bond is just a loan or an IOU - a piece of paper that gets offered for sale by a company or a government. The piece of paper details: 
+- The amount borrowed
+- The fixed interest sum to be paid annually
+- And the maturity date or term.
+Bonds are traded on [[Financial markets]] bought by either public or private sector institutions. Prices go up and down according to the forces of demand & supply and driven predominantly by interest rates and speculation. 
+
+
+#### Debt - Good or bad?
+Debt is essential for investment and economic growth. A government should only borrow to invest and not to fund current spending. But when growth spending is too high problems can occur.
+You can generally measure if debt is too much by the debt to gdp ratio and the ratio of servicing costs to exports.
+A debt crisis may arise where the country is unable to pay interest and loan repayments, leading to a default. This may arise because:
+- Increase in interest rates 
+- Exchange rate fall increasing real value of debt/interest on the loans 
+- Foreign currency gap due to oil price change/terms of trade deterioration
+- Natural disaster
+Many LDCs had a debt crisis in 1980s and 90s due to the rising value of the USA $ which the majority of loans were denominated in.
+
+#### Debt Relief
+IMF set up structural adjustment programmes where it would lend debtors money to pay off original debts but under strict conditions with respect to fiscal & trade policy.
+
+##### The heavily indebted poor countries initiative (HIPC)
+A joint initiative of IMF and World Bank to assist as interim relief for the most heavily indebted countries with unsustainable debt. 
+
+##### Multi-lateral debt relief initiative (MDRI)
+Provided a group of low-income countries with 100 percent relief on eligible debt owed to the World Bank / IMF. The initiative aimed to help eligible countries advance toward the United Nations' **Millennium Development Goals (MDGs)** focused on halving poverty by 2015.
+
+##### The Paris Club
+The Paris Club is a voluntary, informal group of creditor nations who meet approximately 10 times per year, to provide debt relief to developing countries. Members of the Paris Club agree to renegotiate and/or reduce official debt owed to them on a case-by-case basis. Members are Western European countries, UK, USA and Scandinavia.
+
+##### PIIGS
+PIIGS is a derisive acronym for Portugal, Italy, Ireland, Greece and Spain which were the weakest economies in the eurozone during the European debt crisis. These countries borrowed heavily often at levels they could not reasonably expect to pay back in the event of a financial shock.  
+##### Morality is for suckers
+Putting aside any moral obligation to help LEDCs manage their debt, debt write-offs can result in LEDCs relying off creditors to bail them out instead of addressing underlying structural problems.
+### Geography
+Geography makes a big difference in a countries growth. ie if the country has little to no arable resources or difficult to live in then it will likely struggle to grow unless supplied by other states. However the biggest contributing factor toward economic development and growth is access to Oceans. For example the Blue/Yellow Banna and the Northeast megalopolis are the highest GDP concentration in their respective areas.
+![[Pasted image 20230306223604.png]]
+![[Pasted image 20230306223907.png|700]]
+![[Pasted image 20230306223852.png|700]]
+
+### Political instability / war
+War ruins economies for the simple reason of destruction. As invasion goes on it is likely that Education, Health and the economy as a whole is affected. 

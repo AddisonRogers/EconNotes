@@ -47,227 +47,131 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "development": {
-      "development": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1677850890767
-        }
-      }
-    },
-    "quality": {
-      "quality": {
+    "Disease": {
+      "Disease": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677849973172
+          "lastUpdated": 1677937354892
         }
       }
     },
-    "living": {
-      "living": {
+    "Prebisch-Singer": {
+      "Prebisch-Singer": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677850114154
+          "lastUpdated": 1677937369067
         }
       }
     },
-    "well-being": {
-      "well-being": {
+    "hypothesis": {
+      "hypothesis": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677850703835
+          "lastUpdated": 1677937371845
         }
       }
     },
-    "dimensions": {
-      "dimensions": {
+    "employment": {
+      "employment": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677850797971
+          "lastUpdated": 1677937419131
         }
       }
     },
-    "Index": {
-      "Index": {
+    "developing": {
+      "developing": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677851024228
+          "lastUpdated": 1677937430595
         }
       }
     },
-    "Strategies for development": {
-      "Strategies for development": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1677851174850
+    "governance": {
+      "governance": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677937559718
         }
       }
     },
-    "infrastructure": {
-      "infrastructure": {
+    "corruption": {
+      "corruption": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677851290291
+          "lastUpdated": 1677937554676
         }
       }
     },
-    "Education": {
-      "Education": {
+    "characterised": {
+      "characterised": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677852464112
+          "lastUpdated": 1677937563929
         }
       }
     },
-    "capital": {
-      "capital": {
+    "interest": {
+      "interest": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677852489348
+          "lastUpdated": 1678058765731
         }
       }
     },
-    "dependency": {
-      "dependency": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1677853312188
-        }
-      }
-    },
-    "commodities": {
-      "commodities": {
+    "either": {
+      "either": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677853333839
+          "lastUpdated": 1678128222625
         }
       }
     },
-    "resources": {
-      "resources": {
+    "Bonds": {
+      "Bonds": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677853420300
+          "lastUpdated": 1678128255950
         }
       }
     },
-    "competitiveness": {
-      "competitiveness": {
+    "default": {
+      "default": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677853710242
+          "lastUpdated": 1678132802568
         }
       }
     },
-    "primary": {
-      "primary": {
+    "rates": {
+      "rates": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677897100505
+          "lastUpdated": 1678132819376
         }
       }
     },
-    "products": {
-      "products": {
+    "loans": {
+      "loans": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677897104499
+          "count": 2,
+          "lastUpdated": 1678132865734
         }
       }
     },
-    "manufactured": {
-      "manufactured": {
+    "structural": {
+      "structural": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677897106921
+          "lastUpdated": 1678141285411
         }
       }
     },
-    "property": {
-      "property": {
+    "toward": {
+      "toward": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677938979679
-        }
-      }
-    },
-    "Model": {
-      "Model": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677939882749
-        }
-      }
-    },
-    "between": {
-      "between": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677939985523
-        }
-      }
-    },
-    "Harrod-Domar": {
-      "Harrod-Domar": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677940039990
-        }
-      }
-    },
-    "dependent": {
-      "dependent": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677940064365
-        }
-      }
-    },
-    "difference": {
-      "difference": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677940854013
-        }
-      }
-    },
-    "growth": {
-      "growth": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677940872437
-        }
-      }
-    },
-    "citizens": {
-      "citizens": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677941245413
-        }
-      }
-    },
-    "businesses": {
-      "businesses": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677941257353
-        }
-      }
-    },
-    "currency": {
-      "currency": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677941267857
-        }
-      }
-    },
-    "foreign": {
-      "foreign": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677941272927
+          "lastUpdated": 1678146885904
         }
       }
     },
@@ -275,23 +179,7 @@
       "economy": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1678025052793
-        }
-      }
-    },
-    "embezzlement": {
-      "embezzlement": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678025060641
-        }
-      }
-    },
-    "services": {
-      "services": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678025256287
+          "lastUpdated": 1678147059407
         }
       }
     }
