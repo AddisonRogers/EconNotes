@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "503001bd6f3337c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7768392d9dce035c",
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 4/Strategies for development.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 4/Strategies for development.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 4/Strategies for development.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -186,10 +199,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "503001bd6f3337c5",
   "lastOpenFiles": [
-    "Theme 4/Trading blocs and patterns of trade.md",
     "Theme 4/Strategies for development.md",
+    "conflict-files-obsidian-git.md",
+    "Theme 4/Trading blocs and patterns of trade.md",
     "Theme 4/Trade.md",
     "Theme 4/Macroeconomic policies.md",
     "Theme 4/Inequality & poverty.md",
@@ -221,7 +235,6 @@
     "NetFolder/Theme 2 The UK economy performance and policies/CC1 Introduction to macroeconomics 2018.pdf",
     "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjnr.tmp",
     "NetFolder/Theme 2 The UK economy performance and policies/CC2 AS & AS.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjno.tmp",
-    "conflict-files-obsidian-git.md"
+    "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjno.tmp"
   ]
 }
