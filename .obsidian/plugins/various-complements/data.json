@@ -178,8 +178,8 @@
     "economy": {
       "economy": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678147059407
+          "count": 2,
+          "lastUpdated": 1678669839152
         }
       }
     },
@@ -188,6 +188,94 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1678228114915
+        }
+      }
+    },
+    "revenue": {
+      "revenue": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678486213159
+        }
+      }
+    },
+    "individuals": {
+      "individuals": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678486221214
+        }
+      }
+    },
+    "Privatisation": {
+      "Privatisation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678486324258
+        }
+      }
+    },
+    "government": {
+      "government": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678486770796
+        }
+      }
+    },
+    "Investment": {
+      "Investment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678668012119
+        }
+      }
+    },
+    "ecomnomy": {
+      "ecomnomy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678669836623
+        }
+      }
+    },
+    "agricultural": {
+      "agricultural": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678669865697
+        }
+      }
+    },
+    "infrastructure": {
+      "infrastructure": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678670225443
+        }
+      }
+    },
+    "inelastic": {
+      "inelastic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678670505734
+        }
+      }
+    },
+    "non-government": {
+      "non-government": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678677104122
+        }
+      }
+    },
+    "organisation": {
+      "organisation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678677106480
         }
       }
     }
