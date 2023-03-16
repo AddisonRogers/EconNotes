@@ -483,6 +483,54 @@
           "lastUpdated": 1678956000500
         }
       }
+    },
+    "satisficing": {
+      "satisficing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678957940889
+        }
+      }
+    },
+    "maximisation": {
+      "maximisation": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1678959300507
+        }
+      }
+    },
+    "Takeover": {
+      "Takeover": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678960251060
+        }
+      }
+    },
+    "activities": {
+      "activities": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678986241491
+        }
+      }
+    },
+    "defend": {
+      "defend": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678986945070
+        }
+      }
+    },
+    "independent": {
+      "independent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679004373686
+        }
+      }
     }
   }
 }
