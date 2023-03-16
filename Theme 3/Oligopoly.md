@@ -77,14 +77,55 @@ A form of competitive advantage that a company earns by being the first to enter
 
 ## Pricing and non-pricing strategies 
 
+### Pricing strategy 
+1. Predatory pricing: An anti-competitive strategy in which a firm sets price below average variable cost in an attempt to force a rival or rivals out of the market and achieve market dominance.
+2. Limit pricing: When a firm, rather than short run profit maximising, sets a low enough price to deter new entrants from coming into its market.
+3. Price wars: When several firms in a market repeatedly lower their prices to outcompete other firms to defend or gain market share. However sometimes price wars are used in a similar way to predatory pricing.
+4. Price discrimination: charging a different price for the same good or service in different markets.
+
+### Non-pricing strategy 
+1.  Branding: name/design/symbol which distinguishes product from other similar products, supported by advertising and packaging. Also brand loyalty.
+2. Advertising.
+3. New product development: investment in research and development.
+4. New production methods: investment in new technology to improve efficiency.
+5. Product/service quality and differentiation: Quality ingredients and otherwise increasing the non-value value of your product to the customer.
+6. Mergers/takeovers
+7. Collusion.
+
+### Other strategies 
+1. Penetration pricing: Setting a low initial entry price to attract new customers and encourage customers to switch to the new brand.
+2. Price skimming: setting a high price before other competitors enter the market. ie early adoption tax
+3. Cost-plus pricing: Fixing a price for their products by adding a fixed percentage profit margin to the long-run average cost of production.
+4. Product line pricing: When you have more than one product in a line. ie printers and ink or razer and blades.
+
 ## Contestability 
+A contestable market is a market with low entry/exit barriers, perfect knowledge and low brand loyalty. The best example for these markets are hair dressers or low level takeout. 
+This model predicts that supernormal profits will be made in the short run. Causing other firms to compete as long as exit costs are low. This can often lead to hit-and-run competition where a firm enters the market to take advantage of temporarily high profits before leaving. The threat of this causes established firms to keep prices down and only make normal profit in the short run. 
+This drive to keep prices down causes firms to produce efficiently as possible. Long run firms will operate at bottom of average cost curve ie MC = AC being productively efficient. As they can only earn normal profit in the long run AR = AC. Therefore AR = MC which indicates allocative efficiency.
+
+### Affect on government policy
+Previously monopoly power defined by number of firms in the market and the concentration ratios. Policy makers had to take a interventionist approach to control monopoly power. However by using contestable market theory, monopolies are justified and government would rather take a free market approach and remove further barriers to entry/exit. 
 
 ## Business objectives 
+Businesses are defined and ran by it's stakeholders. These are groups who have an interest in the activity and performance outcomes of a business.
+
+### Behavioural/organisational theories
+
+#### Managerial theory 
+This assumes that firms wish to maximise managerial objectives rather than profit. 
+
+#### The divorce of ownership and control 
+Shareholders in a public limited company cannot exercise day-to-day control over the decisions of the managers. Managers meanwhile may have different objectives to owners ie job satisfaction. Management decisions may not therefore maximise profit or shareholder value over time. 
 
 ## Business growth 
 
+
+
 ## Why some firms remain small
 
+
+
 ## Demergers
+
 
 

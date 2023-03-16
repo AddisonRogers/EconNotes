@@ -19,16 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "53a08305fb09df53",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md"
-              }
-            }
           }
         ]
       },
@@ -185,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "2be8566086f10957",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md",
     "Theme 3/Oligopoly.md",

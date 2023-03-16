@@ -1,6 +1,8 @@
 {
   "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
   "matchStrategy": "partial",
+  "fuzzyMatch": true,
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
@@ -10,6 +12,11 @@
   "disableSuggestionsDuringImeOn": false,
   "insertAfterCompletion": true,
   "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
   "showMatchStrategy": true,
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
@@ -38,6 +45,12 @@
   "enableInternalLinkComplement": true,
   "suggestInternalLinkWithAlias": false,
   "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
@@ -322,8 +335,8 @@
     "theory": {
       "theory": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678926761086
+          "count": 2,
+          "lastUpdated": 1678953395662
         }
       }
     },
@@ -362,8 +375,8 @@
     "Collusion": {
       "Collusion": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678927610152
+          "count": 2,
+          "lastUpdated": 1678947606113
         }
       }
     },
@@ -380,6 +393,94 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1678939669603
+        }
+      }
+    },
+    "strategy": {
+      "strategy": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678947298587
+        }
+      }
+    },
+    "Non-pricing": {
+      "Non-pricing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678947295868
+        }
+      }
+    },
+    "repeatedly": {
+      "repeatedly": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678947397195
+        }
+      }
+    },
+    "distinguish": {
+      "distinguish": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678947488227
+        }
+      }
+    },
+    "loyalty": {
+      "loyalty": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678947507856
+        }
+      }
+    },
+    "differentiation": {
+      "differentiation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678947558936
+        }
+      }
+    },
+    "strategies": {
+      "strategies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678947634662
+        }
+      }
+    },
+    "Product": {
+      "Product": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678947751879
+        }
+      }
+    },
+    "competition": {
+      "competition": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678948483592
+        }
+      }
+    },
+    "efficiency": {
+      "efficiency": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678949706089
+        }
+      }
+    },
+    "control": {
+      "control": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678956000500
         }
       }
     }
