@@ -4,36 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "3339a7af88a57c60",
+        "id": "a98c73036485c52f",
         "type": "tabs",
-        "dimension": 62.9968021927821,
+        "dimension": 62.51141552511415,
         "children": [
           {
-            "id": "dd1af867258b2623",
+            "id": "2be8566086f10957",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 4/Strategies for development.md",
+                "file": "Theme 3/Oligopoly.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "53a08305fb09df53",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md"
               }
             }
           }
         ]
       },
       {
-        "id": "7768392d9dce035c",
+        "id": "62ca9a0b1da729ef",
         "type": "tabs",
-        "dimension": 37.00319780721791,
+        "dimension": 37.48858447488585,
         "children": [
           {
-            "id": "65ca38219d807228",
+            "id": "81cbd9208d44f162",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf"
+                "file": "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC3 mkt structures cont growth rationaln bus objs.pdf"
               }
             }
           }
@@ -112,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 4/Strategies for development.md",
+                "file": "Theme 3/Oligopoly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 4/Strategies for development.md",
+                "file": "Theme 3/Oligopoly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 4/Strategies for development.md"
+                "file": "Theme 3/Oligopoly.md"
               }
             }
           }
@@ -175,42 +185,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd1af867258b2623",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
-    "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
+    "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md",
+    "Theme 3/Oligopoly.md",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC3 mkt structures cont growth rationaln bus objs.pdf",
+    "Excalidraw",
+    "Images/Pasted image 20230316002401.png",
+    "Images/Pasted image 20230316002338.png",
+    "Theme 3/Market structures.md",
+    "Theme 4/Constraints to economic development.md",
+    "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
+    "Theme 3/Labour markets.md",
+    "Theme 3/Introduction to theory of the firm.md",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC4 govt intervention - latest version.pdf",
+    "Theme 3/Government intervention.md",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
+    "Theme 4/Trade.md",
+    "Theme 4/Trading blocs and patterns of trade.md",
+    "Theme 4/Macroeconomic policies.md",
     "Theme 4/Strategies for development.md",
+    "Theme 4/Inequality & poverty.md",
+    "Theme 4/Globalisation.md",
+    "Theme 4/Financial markets.md",
+    "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
     "Images/Pasted image 20230307230838.png",
     "Images/Pasted image 20230307230631.png",
     "Images/Pasted image 20230307230613.png",
     "NetFolder/Theme 4 A Global perspective/CC8-Strategies promoting development 2020.pdf",
-    "Theme 4/Constraints to economic development.md",
     "conflict-files-obsidian-git.md",
-    "Theme 4/Trading blocs and patterns of trade.md",
-    "Theme 4/Trade.md",
-    "Theme 4/Macroeconomic policies.md",
-    "Theme 4/Inequality & poverty.md",
-    "Theme 4/Globalisation.md",
-    "Theme 4/Financial markets.md",
-    "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
     "Images/Pasted image 20230306223921.png",
     "Images/Pasted image 20230306223907.png",
     "Images/Pasted image 20230306223852.png",
     "Images/Pasted image 20230306223604.png",
     "Images/Pasted image 20230303141243.png",
     "NetFolder/Theme 4 A Global perspective/CC1 Factors affecting development 2019 Jill and Simon's version.pdf",
-    "Theme 3/Oligopoly.md",
-    "Theme 3/Market structures.md",
-    "Theme 3/Labour markets.md",
-    "Theme 3/Introduction to theory of the firm.md",
-    "Theme 3/Government intervention.md",
     "NetFolder/Theme 4 A Global perspective/CC3 Globalisation and FDI - 2020-21.pdf",
     "NetFolder/Theme 4 A Global perspective/CC2 - Specialisation & Trade 2020-21.pdf",
-    "NetFolder/Theme 4 A Global perspective/CC4 trade blocs and patterns Rob & Simon 2019-20.pdf",
-    "Images/Pasted image 20230117212201.png",
-    "Images/Pasted image 20230117212018.png",
-    "NetFolder/Theme 2 The UK economy performance and policies/CC1 Introduction to macroeconomics 2018.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjnr.tmp",
-    "NetFolder/Theme 2 The UK economy performance and policies/CC2 AS & AS.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjno.tmp"
+    "NetFolder/Theme 4 A Global perspective/CC4 trade blocs and patterns Rob & Simon 2019-20.pdf"
   ]
 }
