@@ -25,6 +25,7 @@ A few markets close to this are:
 
 Implications of this model are that firms are price takers and sell as much as they wish at the ruling market price. 
 
+## Shut down points
 ## Efficiency
 There are a few types of efficiency:
 - Allocative efficiency is achieved when the value consumers place on a good or service equals the cost of the resources used up in production.
@@ -32,10 +33,14 @@ There are a few types of efficiency:
 - Dynamic efficiency is when resources are allocated efficiently over time. 
 - X-inefficiency occurs when a firm has little incentive to control costs due to large profits being earned and a lack of competition. 
 
-## Barriers to entry
+## Monopolistic competition.
+A market structure where a large number of small firms produce differentiated products and where there are low barriers to entry or exit.
+In this structure buyers and sellers can relatively easily leave and sell a variety of goods with perfect knowledge. 
+## Barriers to entry & exit
+### Barriers to entry
 Barriers to entry are factors which make it difficult or impossible for firms to enter an industry and compete with existing producers.
 
-## Barriers to exit
+### Barriers to exit
 These barriers are obstacles to firms leaving the market. This is likely sunk costs or reputation damage. 
 
 ## Monopoly 
@@ -61,6 +66,8 @@ Natural monopoly is an industry where a substantial economies of scale is requir
 4. Cross-subsidisation.
 	This can be used to avoid price discrimination. ie it costs more money to ship mail across the country than next door but the post office costs the same price. 
 
-## Monopolistic competition.
-A market structure where a large number of small firms produce differentiated products and where there are low barriers to entry or exit.
-In this structure buyers and sellers can relatively easily leave and sell a variety of goods with perfect knowledge. 
+## Monopsony
+
+
+
+#todo
