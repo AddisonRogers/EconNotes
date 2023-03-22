@@ -166,6 +166,10 @@ Other relevant terms:
 Some firms may remain small from participating in a niche market. This is a focused targetable portion of a market with a narrowly defined group of potential customers. 
 
 ## Demergers
-A demerger is when a firms splits into two or more independent businesses. 
+A demerger is when a firms splits into two or more independent businesses. A demerger can happen due to a variety of reasons but the largest one is due to diseconomies of scale.
+Sources of diseconomies of scale:
+- **Control**: Difficult to monitor & quality of output of thousands of employees.
+- **Co-ordination**: Difficult to co-ordinate complicated production processes across many factories in different locations & countries, and contracts with hundreds of suppliers. Achieving efficient flows of information in large businesses is expensive.
+- **Co-operation**: Workers may lack motivation, not feeling important in a big organisation, therefore productivity may fall.
 
 

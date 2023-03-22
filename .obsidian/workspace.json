@@ -6,7 +6,6 @@
       {
         "id": "a98c73036485c52f",
         "type": "tabs",
-        "dimension": 59.342165372316124,
         "children": [
           {
             "id": "2be8566086f10957",
@@ -14,26 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 3/Oligopoly.md",
+                "file": "Theme 3/Market structures.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "62ca9a0b1da729ef",
-        "type": "tabs",
-        "dimension": 40.657834627683876,
-        "children": [
-          {
-            "id": "81cbd9208d44f162",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC3 mkt structures cont growth rationaln bus objs.pdf"
               }
             }
           }
@@ -91,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 442.5
   },
   "right": {
     "id": "175a0a7b9db6a366",
@@ -112,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 3/Oligopoly.md",
+                "file": "Theme 3/Market structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 3/Oligopoly.md",
+                "file": "Theme 3/Market structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 3/Oligopoly.md"
+                "file": "Theme 3/Market structures.md"
               }
             }
           }
@@ -175,13 +156,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "2be8566086f10957",
   "lastOpenFiles": [
-    "Images/Pasted image 20230316095339.png",
+    "Theme 3/Oligopoly.md",
     "Theme 3/Market structures.md",
+    "Images/Pasted image 20230316095339.png",
     "Theme 4/Strategies for development.md",
     "Theme 4/Trading blocs and patterns of trade.md",
-    "Theme 3/Oligopoly.md",
     "Theme 4/Constraints to economic development.md",
     "Theme 4/Financial markets.md",
     "Theme 4/Globalisation.md",
@@ -209,7 +190,6 @@
     "Images/Pasted image 20230306223907.png",
     "Images/Pasted image 20230306223852.png",
     "Images/Pasted image 20230306223604.png",
-    "Images/Pasted image 20230303141243.png",
     "NetFolder/Theme 4 A Global perspective/CC1 Factors affecting development 2019 Jill and Simon's version.pdf",
     "NetFolder/Theme 4 A Global perspective/CC3 Globalisation and FDI - 2020-21.pdf",
     "NetFolder/Theme 4 A Global perspective/CC2 - Specialisation & Trade 2020-21.pdf",
