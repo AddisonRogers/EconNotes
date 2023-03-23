@@ -15,8 +15,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d75512dd9a20c392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9ce7bd7eb125d304",
@@ -108,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -168,9 +185,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "d75512dd9a20c392",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20230316095339.png",
+    "Images/Pasted image 20230316002401.png",
+    "Images/Pasted image 20230316002338.png",
+    "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md",
+    "Excalidraw",
     "Images/Pasted image 20230307230838.png",
     "Images/Pasted image 20230307230631.png",
     "Images/Pasted image 20230307230613.png",
@@ -189,7 +211,6 @@
     "Images/Pasted image 20230306223852.png",
     "Images/Pasted image 20230306223604.png",
     "NetFolder/Theme 4 A Global perspective/CC1 Factors affecting development 2019 Jill and Simon's version.pdf",
-    "Images/Pasted image 20230303141243.png",
     "Theme 3/Oligopoly.md",
     "Theme 3/Market structures.md",
     "Theme 3/Labour markets.md",
@@ -198,12 +219,9 @@
     "NetFolder/Theme 4 A Global perspective/CC3 Globalisation and FDI - 2020-21.pdf",
     "NetFolder/Theme 4 A Global perspective/CC2 - Specialisation & Trade 2020-21.pdf",
     "NetFolder/Theme 4 A Global perspective/CC4 trade blocs and patterns Rob & Simon 2019-20.pdf",
-    "Images/Pasted image 20230117212201.png",
-    "Images/Pasted image 20230117212018.png",
     "NetFolder/Theme 2 The UK economy performance and policies/CC1 Introduction to macroeconomics 2018.pdf",
     "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjnr.tmp",
     "NetFolder/Theme 2 The UK economy performance and policies/CC2 AS & AS.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjno.tmp",
-    "NetFolder/Theme 2 The UK economy performance and policies/CC3 growth.pdf"
+    "NetFolder/Theme 2 The UK economy performance and policies/lu1160863qjno.tmp"
   ]
 }
