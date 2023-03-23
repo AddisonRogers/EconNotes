@@ -1,5 +1,6 @@
+#done 
 [[CC5 Exchange rates & Monetary union Simon's version.pdf]]
-# Exchange rates 
+## Exchange rates 
 
 Key definitions:
 | Exchange rate terms      | Definitions                                                                             |
@@ -23,7 +24,7 @@ Where the value of a currency is determined by free market forces with the value
 ### Fixed 
 A rate of exchange between at least two currencies, which is constant over a period of time.
 Some common examples are:
-The gold standard, Currency boards where one currency was pegged against another
+The gold standard, Currency boards where one currency was pegged against another.
 
 ### Managed 
 A exchange rate system where free markets determine the value of a currency but where central banks intervene from time to time to change the value of their currency. This is the system that is used today in most economies.
@@ -31,17 +32,17 @@ Some common examples of Managed exchange rate systems:
 - Adjustable peg system. Where currencies are fixed in value in the short term but devalued or revalued in the long term.
 - Bretton woods system. A adjustable peg exchange rate used in post ww2 until the 70s
 - Crawling peg system. A adjustable peg system where there is an inbuilt mechanism for regular changes in the central value of the currency.
+![[Pasted image 20230323113716.png|700]]
 
-
-# Terms of trade 
+## Terms of trade 
 Terms of trade is the ratio of export prices to import prices.
 $$
 \frac{\text{Index of export prices}}{\text{index of import prices}} \times 100
 $$
 An improvement in a country's terms of trade implies an increase in its living standards, because less has to be exported to buy a given quantity of imports. However it could also mean that the goods and services are less competitive and so may result in a deterioration in the balance of trade.
 
-# International competitiveness competitiveness 
-A country's international competitiveness refers to its ability to sell its goods and services in domestic and international markets at a price and quality that is attractive in those markets.
+## International competitiveness  
+A country's international competitiveness refers to its ability to sell its goods and services in domestic and international markets at a **price** and **quality** that is attractive in those markets.
 
 Measures of competitiveness 
 - Relative unit labour costs. The measurement of labour costs in one country relative to another.
@@ -57,10 +58,7 @@ Factors influencing international competitiveness
 - Quality.
 - Taxation.
 
-
-
-
-# Monetary union
+## Monetary union
 A group of countries which share a common currency such as the euro.
 
 The most popular union is the eurozone. Their criteria for joining are:
@@ -82,5 +80,5 @@ As a disadvantage:
 - No exchange rate adjustment possible.
 - Constraints on fiscal policy.
 
-## Optimal currency area
+### Optimal currency area
 A group of countries where efficiency would be maximised by sharing a common currency ie Benelux or the EU

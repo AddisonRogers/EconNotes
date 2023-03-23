@@ -1,4 +1,4 @@
-
+#done
 [[CC3 mkt structures cont growth rationaln bus objs.pdf]]
 
 **Oligopoly: a market where a small number of interdependent firms compete with each other.**

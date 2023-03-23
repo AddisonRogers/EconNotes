@@ -191,8 +191,8 @@
     "economy": {
       "economy": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678669839152
+          "count": 4,
+          "lastUpdated": 1679575835904
         }
       }
     },
@@ -537,6 +537,94 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679445920138
+        }
+      }
+    },
+    "Microeconomics": {
+      "Microeconomics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679572232500
+        }
+      }
+    },
+    "Non-renewable": {
+      "Non-renewable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679572653451
+        }
+      }
+    },
+    "Constraints to economic development": {
+      "Constraints to economic development": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679572840216
+        }
+      }
+    },
+    "Opportunity": {
+      "Opportunity": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679572850853
+        }
+      }
+    },
+    "production": {
+      "production": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679573080872
+        }
+      }
+    },
+    "resources": {
+      "resources": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679573089840
+        }
+      }
+    },
+    "opportunity": {
+      "opportunity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679573537378
+        }
+      }
+    },
+    "Specialisation": {
+      "Specialisation": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679573822451
+        }
+      }
+    },
+    "Government intervention": {
+      "Government intervention": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679575526785
+        }
+      }
+    },
+    "self-interest": {
+      "self-interest": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679575941914
+        }
+      }
+    },
+    "scientific": {
+      "scientific": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679576138948
         }
       }
     }

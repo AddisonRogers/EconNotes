@@ -146,3 +146,4 @@ Subnormal profit is where total revenue is less.
 Supernormal is where total revenue is more.
 
 Profit is the return to the entrepreneur for risk-taking. It is the main reason for business start-ups. Profit is necessary in a limited company to pay out dividends to shareholders to encourage them to hold shares. 
+#todo 
