@@ -31,7 +31,7 @@ Some PPFs don't indicate increasing opportunity cost and in those situations the
 A system of organisation where economic units such as households or nations are not self-sufficient but concentrate on producing certain goods and services and trading the surplus with others. Specialisation by individuals is called the **Division of labour**.
 Specialisation by workers where the production of a good is broken up into many separate tasks each performed by one person. 
 Specialisation increases labour productivity which is often the hardest thing to increase short-term. 
-
+hello
 ## Economic systems
 ### Free market economy
 An economic system where resources are allocated by the price mechanism (Demand and supply). The forces of market demand and [[Government intervention]] determine how resources are allocated. This is known as the working of the price mechanism. Everyone in the market is motivated by self-interest. 

@@ -6,7 +6,7 @@
       {
         "id": "5a697237860ce39a",
         "type": "tabs",
-        "dimension": 59.73053892215569,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "efab8df450901cb2",
@@ -17,23 +17,6 @@
                 "file": "Theme 1/Nature of economics.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "016f6c25cc6810d5",
-        "type": "tabs",
-        "dimension": 40.26946107784431,
-        "children": [
-          {
-            "id": "ee6b03287e4ed2f9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC1 Nature of Economics 2018.pdf"
               }
             }
           }
@@ -178,15 +161,20 @@
   },
   "active": "a580585ddb566a7b",
   "lastOpenFiles": [
+    "NetFolder/Theme 2 The UK economy performance and policies/CC5 inflation.pdf",
+    "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
+    "Images/Pasted image 20230303141243.png",
+    "Theme 4/Trade.md",
+    "Theme 4/Trading blocs and patterns of trade.md",
+    "Theme 3/Oligopoly.md",
+    "Theme 3/Market structures.md",
+    "Theme 1/Nature of economics.md",
     "Images/Pasted image 20230323121144.png",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC1 Nature of Economics 2018.pdf",
-    "Theme 1/Nature of economics.md",
     "Theme 1",
     "Theme 3/Government intervention.md",
     "Theme 3/Introduction to theory of the firm.md",
     "Theme 3/Labour markets.md",
-    "Theme 3/Market structures.md",
-    "Theme 3/Oligopoly.md",
     "Theme 4/Constraints to economic development.md",
     "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
     "Theme 4/Financial markets.md",
@@ -194,11 +182,9 @@
     "Theme 4/Inequality & poverty.md",
     "Theme 4/Macroeconomic policies.md",
     "Theme 4/Strategies for development.md",
-    "Theme 4/Trading blocs and patterns of trade.md",
     "Index.md",
     "Images/Pasted image 20230323113716.png",
     "NetFolder/Theme 4 A Global perspective/CC5 Exchange rates & Monetary union Simon's version.pdf",
-    "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
     "OffShoots/Economics in Command and Planned economies.md",
     "OffShoots",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
@@ -206,7 +192,6 @@
     "NetFolder/Theme 4 A Global perspective/CC7 Inequality & poverty Simon's version 2020.pdf",
     "NetFolder/Theme 4 A Global perspective/CC6 Financial Sector 2020.pdf",
     "NetFolder/Theme 4 A Global perspective/CC4 trade blocs and patterns Rob & Simon 2019-20.pdf",
-    "Theme 4/Trade.md",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230316095339.png",
     "Images/Pasted image 20230316002401.png",
@@ -215,8 +200,6 @@
     "Images/Pasted image 20230307230838.png",
     "Images/Pasted image 20230307230631.png",
     "Images/Pasted image 20230307230613.png",
-    "Images/Pasted image 20230306223921.png",
-    "Images/Pasted image 20230306223907.png",
-    "Images/Pasted image 20230306223852.png"
+    "Images/Pasted image 20230306223921.png"
   ]
 }
