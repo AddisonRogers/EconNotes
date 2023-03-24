@@ -6,7 +6,7 @@
       {
         "id": "a98c73036485c52f",
         "type": "tabs",
-        "dimension": 72.0623095157467,
+        "dimension": 65.18794446325771,
         "children": [
           {
             "id": "2be8566086f10957",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 3/Government intervention.md",
+                "file": "Theme 1/Nature of economics.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "9e876fee3f4c874f",
         "type": "tabs",
-        "dimension": 27.937690484253302,
+        "dimension": 34.8120555367423,
         "children": [
           {
             "id": "551efacc596f949f",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 3/Government intervention.md",
+                "file": "Theme 1/Nature of economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 3/Government intervention.md",
+                "file": "Theme 1/Nature of economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 3/Government intervention.md"
+                "file": "Theme 1/Nature of economics.md"
               }
             }
           }
@@ -187,13 +187,14 @@
   },
   "active": "a580585ddb566a7b",
   "lastOpenFiles": [
+    "Theme 3/Introduction to theory of the firm.md",
+    "Theme 3/Government intervention.md",
     "Theme 1/Nature of economics.md",
     "OffShoots/Economics in Command and Planned economies.md",
     "OffShoots",
     "Index.md",
     "Images/Pasted image 20230323121144.png",
     "Images/Pasted image 20230323113716.png",
-    "Theme 3/Introduction to theory of the firm.md",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC1.pdf",
     "Theme 3/Labour markets.md",
     "Theme 3/Market structures.md",
@@ -208,7 +209,6 @@
     "Theme 4/Inequality & poverty.md",
     "Theme 4/Macroeconomic policies.md",
     "Theme 4/Trade.md",
-    "Theme 3/Government intervention.md",
     "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
     "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC3 mkt structures cont growth rationaln bus objs.pdf",
