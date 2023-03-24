@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c58912580734f3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9e876fee3f4c874f",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 3/Government intervention.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 3/Government intervention.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 3/Government intervention.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -185,11 +198,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "c58912580734f3ef",
   "lastOpenFiles": [
+    "Theme 3/Government intervention.md",
+    "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20230324161508.png",
+    "Images/Pasted image 20230324152710.png",
+    "Images/Pasted image 20230324152003.png",
+    "Excalidraw/Drawing 2023-03-24 15.17.44.excalidraw.md",
     "Theme 1/Nature of economics.md",
     "Theme 3/Introduction to theory of the firm.md",
-    "Theme 3/Government intervention.md",
     "OffShoots/Economics in Command and Planned economies.md",
     "OffShoots",
     "Index.md",
@@ -220,11 +238,7 @@
     "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
     "Images/Pasted image 20230307230838.png",
     "Images/Pasted image 20230307230631.png",
-    "Images/Pasted image 20230307230613.png",
     "NetFolder/Theme 4 A Global perspective/CC8-Strategies promoting development 2020.pdf",
-    "conflict-files-obsidian-git.md",
-    "Images/Pasted image 20230306223921.png",
-    "Images/Pasted image 20230306223907.png",
     "NetFolder/Theme 4 A Global perspective/CC1 Factors affecting development 2019 Jill and Simon's version.pdf"
   ]
 }
