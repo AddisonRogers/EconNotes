@@ -463,16 +463,16 @@
     "competition": {
       "competition": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678948483592
+          "count": 7,
+          "lastUpdated": 1679673505513
         }
       }
     },
     "efficiency": {
       "efficiency": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678949706089
+          "count": 3,
+          "lastUpdated": 1679674980976
         }
       }
     },
@@ -559,8 +559,8 @@
     "Constraints to economic development": {
       "Constraints to economic development": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679572840216
+          "count": 2,
+          "lastUpdated": 1679669779132
         }
       }
     },
@@ -607,8 +607,8 @@
     "Government intervention": {
       "Government intervention": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679575526785
+          "count": 2,
+          "lastUpdated": 1679669839582
         }
       }
     },
@@ -625,6 +625,110 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679576138948
+        }
+      }
+    },
+    "Investigating": {
+      "Investigating": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679670190231
+        }
+      }
+    },
+    "there": {
+      "there": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679670205008
+        }
+      }
+    },
+    "european": {
+      "european": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679670388883
+        }
+      }
+    },
+    "consumers": {
+      "consumers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679670393334
+        }
+      }
+    },
+    "commission": {
+      "commission": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679670396240
+        }
+      }
+    },
+    "allocative": {
+      "allocative": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679671360210
+        }
+      }
+    },
+    "impact": {
+      "impact": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679672200493
+        }
+      }
+    },
+    "Exchange rates, terms of trade, competitveness & monetary union": {
+      "Exchange rates, terms of trade, competitveness & monetary union": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679672241816
+        }
+      }
+    },
+    "relevant": {
+      "relevant": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679672548750
+        }
+      }
+    },
+    "privatised": {
+      "privatised": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679673589183
+        }
+      }
+    },
+    "reduce": {
+      "reduce": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679674990284
+        }
+      }
+    },
+    "productivity": {
+      "productivity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679675023507
+        }
+      }
+    },
+    "return": {
+      "return": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679675167841
         }
       }
     }
