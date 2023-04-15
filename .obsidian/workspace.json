@@ -4,36 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "389a5b72a9304f6b",
+        "id": "969dc99f050f89eb",
         "type": "tabs",
-        "dimension": 59.5309381237525,
+        "dimension": 59.95226730310262,
         "children": [
           {
-            "id": "0fe36ff29038f863",
+            "id": "6c805da567e985a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theme 3/Government intervention.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       },
       {
-        "id": "6d2bfa860484281c",
+        "id": "619d90487fd5e1a9",
         "type": "tabs",
-        "dimension": 40.4690618762475,
+        "dimension": 40.04773269689738,
         "children": [
           {
-            "id": "efab8df450901cb2",
+            "id": "7b94cea26ba22681",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC4 govt intervention - latest version.pdf"
+                "file": "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf"
               }
             }
           }
@@ -96,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 344.5
   },
   "right": {
     "id": "175a0a7b9db6a366",
@@ -112,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 3/Government intervention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 3/Government intervention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Theme 3/Government intervention.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,46 +170,45 @@
   },
   "active": "a580585ddb566a7b",
   "lastOpenFiles": [
+    "Theme 4/Macroeconomic policies.md",
+    "Images/Pasted image 20230407181400.png",
+    "Images/Pasted image 20230407175554.png",
+    "Images/Pasted image 20230407154151.png",
+    "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
+    "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
+    "NetFolder/Theme 4 A Global perspective/Addison Rogers - CC9 Macroeconomic policy ST 2022.pdf",
+    "NetFolder/Theme 4 A Global perspective/CC7 Inequality & poverty Simon's version 2020.pdf",
+    "NetFolder/Theme 4 A Global perspective/CC5 Exchange rates & Monetary union Simon's version.pdf",
+    "NetFolder/Theme 4 A Global perspective/CC1 Factors affecting development 2019 Jill and Simon's version.pdf",
+    "NetFolder/Theme 4 A Global perspective/CC3 Globalisation and FDI - 2020-21.pdf",
+    "NetFolder/Theme 4 A Global perspective/Addison Rogers - CC9 Macroeconomic policy ST 2022.docx",
+    "Theme 3/Government intervention.md",
     "Images/Pasted image 20230324161508.png",
     "Images/Pasted image 20230324152710.png",
     "Images/Pasted image 20230324152003.png",
     "Excalidraw/Drawing 2023-03-24 15.17.44.excalidraw.md",
-    "Theme 3/Government intervention.md",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC4 govt intervention - latest version.pdf",
     "Index.md",
     "Theme 3/Labour markets.md",
     "Theme 3/Introduction to theory of the firm.md",
     "Theme 1/Nature of economics.md",
     "NetFolder/Theme 2 The UK economy performance and policies/CC5 inflation.pdf",
-    "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
     "Images/Pasted image 20230303141243.png",
     "Theme 4/Trade.md",
     "Theme 4/Trading blocs and patterns of trade.md",
     "Theme 3/Oligopoly.md",
     "Theme 3/Market structures.md",
     "Images/Pasted image 20230323121144.png",
-    "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC1 Nature of Economics 2018.pdf",
-    "Theme 1",
     "Theme 4/Constraints to economic development.md",
     "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
     "Theme 4/Financial markets.md",
     "Theme 4/Globalisation.md",
     "Theme 4/Inequality & poverty.md",
-    "Theme 4/Macroeconomic policies.md",
     "Theme 4/Strategies for development.md",
     "Images/Pasted image 20230323113716.png",
-    "NetFolder/Theme 4 A Global perspective/CC5 Exchange rates & Monetary union Simon's version.pdf",
     "OffShoots/Economics in Command and Planned economies.md",
-    "OffShoots",
-    "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
-    "NetFolder/Theme 4 A Global perspective/CC8-Strategies promoting development 2020.pdf",
-    "NetFolder/Theme 4 A Global perspective/CC7 Inequality & poverty Simon's version 2020.pdf",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230316095339.png",
-    "Images/Pasted image 20230316002401.png",
-    "Images/Pasted image 20230316002338.png",
-    "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md",
-    "Images/Pasted image 20230307230838.png",
-    "Images/Pasted image 20230307230631.png"
+    "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md"
   ]
 }

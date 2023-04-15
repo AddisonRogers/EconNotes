@@ -60,147 +60,11 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Disease": {
-      "Disease": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937354892
-        }
-      }
-    },
-    "Prebisch-Singer": {
-      "Prebisch-Singer": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937369067
-        }
-      }
-    },
-    "hypothesis": {
-      "hypothesis": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937371845
-        }
-      }
-    },
-    "employment": {
-      "employment": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937419131
-        }
-      }
-    },
-    "developing": {
-      "developing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937430595
-        }
-      }
-    },
-    "governance": {
-      "governance": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677937559718
-        }
-      }
-    },
-    "corruption": {
-      "corruption": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937554676
-        }
-      }
-    },
-    "characterised": {
-      "characterised": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937563929
-        }
-      }
-    },
-    "interest": {
-      "interest": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678058765731
-        }
-      }
-    },
-    "either": {
-      "either": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678128222625
-        }
-      }
-    },
-    "Bonds": {
-      "Bonds": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678128255950
-        }
-      }
-    },
-    "default": {
-      "default": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678132802568
-        }
-      }
-    },
-    "rates": {
-      "rates": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678132819376
-        }
-      }
-    },
-    "loans": {
-      "loans": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678132865734
-        }
-      }
-    },
-    "structural": {
-      "structural": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678141285411
-        }
-      }
-    },
-    "toward": {
-      "toward": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678146885904
-        }
-      }
-    },
     "economy": {
       "economy": {
         "currentFile": {
           "count": 4,
           "lastUpdated": 1679575835904
-        }
-      }
-    },
-    "Subsidies": {
-      "Subsidies": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678228114915
         }
       }
     },
@@ -559,8 +423,8 @@
     "Constraints to economic development": {
       "Constraints to economic development": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1679669779132
+          "count": 3,
+          "lastUpdated": 1680877992991
         }
       }
     },
@@ -687,8 +551,8 @@
     "Exchange rates, terms of trade, competitveness & monetary union": {
       "Exchange rates, terms of trade, competitveness & monetary union": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679672241816
+          "count": 2,
+          "lastUpdated": 1680877188275
         }
       }
     },
@@ -729,6 +593,46 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679675167841
+        }
+      }
+    },
+    "spending": {
+      "spending": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680877064480
+        }
+      }
+    },
+    "taxes": {
+      "taxes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680877091111
+        }
+      }
+    },
+    "policy": {
+      "policy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680877131866
+        }
+      }
+    },
+    "deficits": {
+      "deficits": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680877143280
+        }
+      }
+    },
+    "external": {
+      "external": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680877976774
         }
       }
     }
