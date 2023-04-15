@@ -12,8 +12,12 @@
             "id": "6c805da567e985a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Theme 4/Macroeconomic policies.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Theme 4/Macroeconomic policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Theme 4/Macroeconomic policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Theme 4/Macroeconomic policies.md"
+              }
             }
           }
         ],
@@ -170,6 +178,7 @@
   },
   "active": "a580585ddb566a7b",
   "lastOpenFiles": [
+    "OffShoots/Economics in Command and Planned economies.md",
     "Theme 4/Macroeconomic policies.md",
     "Images/Pasted image 20230407181400.png",
     "Images/Pasted image 20230407175554.png",
@@ -206,7 +215,6 @@
     "Theme 4/Inequality & poverty.md",
     "Theme 4/Strategies for development.md",
     "Images/Pasted image 20230323113716.png",
-    "OffShoots/Economics in Command and Planned economies.md",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230316095339.png",
     "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md"

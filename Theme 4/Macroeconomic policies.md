@@ -53,7 +53,10 @@ The impact of the laffer curve says that as the tax rate increases past T there 
 Indirect taxes generally hit the poorer population more than direct taxes. An increase in VAT for example also has the side problem of decreasing consumption. This can affect businesses.
 
 ## Budget deficits and the national debt
-
+Fiscal policy is the use of taxation, government spending and government borrowing. 
+A fiscal deficit or budget deficit is where a government spends more than they receive in revenue in one year. The government must therefore borrow to finance their spending.
+The national debt is the total accumulated government debt over time. If the government has a budget deficit the national debt will rise. 
+A fiscal surplus or budget surplus is where a government receives more in tax revenue than they spend in one year. The government could choose to reduce the national debt or they could cut taxes or raise government spending.
 
 ## Factors affecting the budget deficit and national debt
 
