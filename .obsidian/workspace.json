@@ -6,7 +6,7 @@
       {
         "id": "969dc99f050f89eb",
         "type": "tabs",
-        "dimension": 59.95226730310262,
+        "dimension": 60.651828298887125,
         "children": [
           {
             "id": "6c805da567e985a5",
@@ -25,7 +25,7 @@
       {
         "id": "619d90487fd5e1a9",
         "type": "tabs",
-        "dimension": 40.04773269689738,
+        "dimension": 39.348171701112875,
         "children": [
           {
             "id": "7b94cea26ba22681",
@@ -91,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "6c805da567e985a5",
   "lastOpenFiles": [
     "OffShoots/Economics in Command and Planned economies.md",
     "Theme 4/Macroeconomic policies.md",

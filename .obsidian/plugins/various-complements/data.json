@@ -68,174 +68,6 @@
         }
       }
     },
-    "Oligopoly": {
-      "Oligopoly": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678827861680
-        }
-      }
-    },
-    "concentration": {
-      "concentration": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678828263270
-        }
-      }
-    },
-    "competitive": {
-      "competitive": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678832237321
-        }
-      }
-    },
-    "interdependent": {
-      "interdependent": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1678928480466
-        }
-      }
-    },
-    "collusion": {
-      "collusion": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678838206268
-        }
-      }
-    },
-    "theory": {
-      "theory": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678953395662
-        }
-      }
-    },
-    "Cartel": {
-      "Cartel": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678927307367
-        }
-      }
-    },
-    "maximising": {
-      "maximising": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678927323365
-        }
-      }
-    },
-    "profits": {
-      "profits": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678927326907
-        }
-      }
-    },
-    "between": {
-      "between": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678927583521
-        }
-      }
-    },
-    "Collusion": {
-      "Collusion": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678947606113
-        }
-      }
-    },
-    "MAXIMAX": {
-      "MAXIMAX": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678939152295
-        }
-      }
-    },
-    "advantage": {
-      "advantage": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678939669603
-        }
-      }
-    },
-    "strategy": {
-      "strategy": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678947298587
-        }
-      }
-    },
-    "Non-pricing": {
-      "Non-pricing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947295868
-        }
-      }
-    },
-    "repeatedly": {
-      "repeatedly": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947397195
-        }
-      }
-    },
-    "distinguish": {
-      "distinguish": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947488227
-        }
-      }
-    },
-    "loyalty": {
-      "loyalty": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947507856
-        }
-      }
-    },
-    "differentiation": {
-      "differentiation": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947558936
-        }
-      }
-    },
-    "strategies": {
-      "strategies": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947634662
-        }
-      }
-    },
-    "Product": {
-      "Product": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947751879
-        }
-      }
-    },
     "competition": {
       "competition": {
         "currentFile": {
@@ -249,54 +81,6 @@
         "currentFile": {
           "count": 3,
           "lastUpdated": 1679674980976
-        }
-      }
-    },
-    "control": {
-      "control": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678956000500
-        }
-      }
-    },
-    "satisficing": {
-      "satisficing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678957940889
-        }
-      }
-    },
-    "maximisation": {
-      "maximisation": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1678959300507
-        }
-      }
-    },
-    "Takeover": {
-      "Takeover": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678960251060
-        }
-      }
-    },
-    "activities": {
-      "activities": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678986241491
-        }
-      }
-    },
-    "defend": {
-      "defend": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678986945070
         }
       }
     },
@@ -553,6 +337,30 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681572489962
+        }
+      }
+    },
+    "expenditure": {
+      "expenditure": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1681596160606
+        }
+      }
+    },
+    "Structural": {
+      "Structural": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681596036601
+        }
+      }
+    },
+    "deficit": {
+      "deficit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681596041053
         }
       }
     }
