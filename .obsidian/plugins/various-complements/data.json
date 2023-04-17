@@ -60,403 +60,11 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Disease": {
-      "Disease": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937354892
-        }
-      }
-    },
-    "Prebisch-Singer": {
-      "Prebisch-Singer": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937369067
-        }
-      }
-    },
-    "hypothesis": {
-      "hypothesis": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937371845
-        }
-      }
-    },
-    "employment": {
-      "employment": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937419131
-        }
-      }
-    },
-    "developing": {
-      "developing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937430595
-        }
-      }
-    },
-    "governance": {
-      "governance": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677937559718
-        }
-      }
-    },
-    "corruption": {
-      "corruption": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937554676
-        }
-      }
-    },
-    "characterised": {
-      "characterised": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677937563929
-        }
-      }
-    },
-    "interest": {
-      "interest": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678058765731
-        }
-      }
-    },
-    "either": {
-      "either": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678128222625
-        }
-      }
-    },
-    "Bonds": {
-      "Bonds": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678128255950
-        }
-      }
-    },
-    "default": {
-      "default": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678132802568
-        }
-      }
-    },
-    "rates": {
-      "rates": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678132819376
-        }
-      }
-    },
-    "loans": {
-      "loans": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678132865734
-        }
-      }
-    },
-    "structural": {
-      "structural": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678141285411
-        }
-      }
-    },
-    "toward": {
-      "toward": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678146885904
-        }
-      }
-    },
     "economy": {
       "economy": {
         "currentFile": {
           "count": 4,
           "lastUpdated": 1679575835904
-        }
-      }
-    },
-    "Subsidies": {
-      "Subsidies": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678228114915
-        }
-      }
-    },
-    "revenue": {
-      "revenue": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678486213159
-        }
-      }
-    },
-    "individuals": {
-      "individuals": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678486221214
-        }
-      }
-    },
-    "Privatisation": {
-      "Privatisation": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678486324258
-        }
-      }
-    },
-    "government": {
-      "government": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678486770796
-        }
-      }
-    },
-    "Investment": {
-      "Investment": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678668012119
-        }
-      }
-    },
-    "ecomnomy": {
-      "ecomnomy": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678669836623
-        }
-      }
-    },
-    "agricultural": {
-      "agricultural": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678669865697
-        }
-      }
-    },
-    "infrastructure": {
-      "infrastructure": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678670225443
-        }
-      }
-    },
-    "inelastic": {
-      "inelastic": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678670505734
-        }
-      }
-    },
-    "non-government": {
-      "non-government": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678677104122
-        }
-      }
-    },
-    "organisation": {
-      "organisation": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678677106480
-        }
-      }
-    },
-    "Oligopoly": {
-      "Oligopoly": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678827861680
-        }
-      }
-    },
-    "concentration": {
-      "concentration": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678828263270
-        }
-      }
-    },
-    "competitive": {
-      "competitive": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678832237321
-        }
-      }
-    },
-    "interdependent": {
-      "interdependent": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1678928480466
-        }
-      }
-    },
-    "collusion": {
-      "collusion": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678838206268
-        }
-      }
-    },
-    "theory": {
-      "theory": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678953395662
-        }
-      }
-    },
-    "Cartel": {
-      "Cartel": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678927307367
-        }
-      }
-    },
-    "maximising": {
-      "maximising": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678927323365
-        }
-      }
-    },
-    "profits": {
-      "profits": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678927326907
-        }
-      }
-    },
-    "between": {
-      "between": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678927583521
-        }
-      }
-    },
-    "Collusion": {
-      "Collusion": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678947606113
-        }
-      }
-    },
-    "MAXIMAX": {
-      "MAXIMAX": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678939152295
-        }
-      }
-    },
-    "advantage": {
-      "advantage": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678939669603
-        }
-      }
-    },
-    "strategy": {
-      "strategy": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678947298587
-        }
-      }
-    },
-    "Non-pricing": {
-      "Non-pricing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947295868
-        }
-      }
-    },
-    "repeatedly": {
-      "repeatedly": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947397195
-        }
-      }
-    },
-    "distinguish": {
-      "distinguish": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947488227
-        }
-      }
-    },
-    "loyalty": {
-      "loyalty": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947507856
-        }
-      }
-    },
-    "differentiation": {
-      "differentiation": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947558936
-        }
-      }
-    },
-    "strategies": {
-      "strategies": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947634662
-        }
-      }
-    },
-    "Product": {
-      "Product": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678947751879
         }
       }
     },
@@ -473,54 +81,6 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1678949706089
-        }
-      }
-    },
-    "control": {
-      "control": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678956000500
-        }
-      }
-    },
-    "satisficing": {
-      "satisficing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678957940889
-        }
-      }
-    },
-    "maximisation": {
-      "maximisation": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1678959300507
-        }
-      }
-    },
-    "Takeover": {
-      "Takeover": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678960251060
-        }
-      }
-    },
-    "activities": {
-      "activities": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678986241491
-        }
-      }
-    },
-    "defend": {
-      "defend": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678986945070
         }
       }
     },
@@ -559,8 +119,13 @@
     "Constraints to economic development": {
       "Constraints to economic development": {
         "internalLink": {
+<<<<<<< HEAD
           "count": 1,
           "lastUpdated": 1679572840216
+=======
+          "count": 3,
+          "lastUpdated": 1680877992991
+>>>>>>> origin/main
         }
       }
     },
@@ -648,7 +213,163 @@
       "businesses": {
         "currentFile": {
           "count": 1,
+<<<<<<< HEAD
           "lastUpdated": 1679692481603
+=======
+          "lastUpdated": 1679670388883
+        }
+      }
+    },
+    "consumers": {
+      "consumers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679670393334
+        }
+      }
+    },
+    "commission": {
+      "commission": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679670396240
+        }
+      }
+    },
+    "allocative": {
+      "allocative": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679671360210
+        }
+      }
+    },
+    "impact": {
+      "impact": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679672200493
+        }
+      }
+    },
+    "Exchange rates, terms of trade, competitveness & monetary union": {
+      "Exchange rates, terms of trade, competitveness & monetary union": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1680877188275
+        }
+      }
+    },
+    "relevant": {
+      "relevant": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679672548750
+        }
+      }
+    },
+    "privatised": {
+      "privatised": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679673589183
+        }
+      }
+    },
+    "reduce": {
+      "reduce": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679674990284
+        }
+      }
+    },
+    "productivity": {
+      "productivity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679675023507
+        }
+      }
+    },
+    "return": {
+      "return": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679675167841
+>>>>>>> origin/main
+        }
+      }
+    },
+    "spending": {
+      "spending": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680877064480
+        }
+      }
+    },
+    "taxes": {
+      "taxes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680877091111
+        }
+      }
+    },
+    "policy": {
+      "policy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680877131866
+        }
+      }
+    },
+    "deficits": {
+      "deficits": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680877143280
+        }
+      }
+    },
+    "external": {
+      "external": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680877976774
+        }
+      }
+    },
+    "borrowing": {
+      "borrowing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681572489962
+        }
+      }
+    },
+    "expenditure": {
+      "expenditure": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1681596160606
+        }
+      }
+    },
+    "Structural": {
+      "Structural": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681596036601
+        }
+      }
+    },
+    "deficit": {
+      "deficit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681596041053
         }
       }
     }
