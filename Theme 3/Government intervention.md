@@ -79,8 +79,17 @@ The impact of this is that firms are not rewarded for their success but instead 
 ### Quality standards & performance targets
 A profit maximising monopolist is focussed on profit and not quality. A method of control is by setting quality or performance standards. Monopolists may resist the imposition and may attempt to find ways around the targets.
 
-
 ## Promoting competition and contestability
+The different ways government intervention can help businesses:
+- Enhance competition between firms through the promotion of small businesses. 
+- Deregulation.
+- Competitive tendering for government contracts.
+- Privatisation. 
+
+
+
+
+
 
 ## Protecting suppliers & employees
 

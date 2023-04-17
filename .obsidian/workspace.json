@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a98c73036485c52f",
+        "id": "bd344020800d0702",
         "type": "tabs",
-        "dimension": 65.18794446325771,
         "children": [
           {
-            "id": "2be8566086f10957",
+            "id": "6b6352af63ceebb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 3/Government intervention.md",
+                "file": "Theme 3/Oligopoly.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c58912580734f3ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9e876fee3f4c874f",
-        "type": "tabs",
-        "dimension": 34.8120555367423,
-        "children": [
-          {
-            "id": "551efacc596f949f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC1.pdf"
-              }
-            }
-          },
-          {
-            "id": "e31320a702d66137",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC2.pdf"
               }
             }
           }
@@ -135,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Theme 3/Oligopoly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Theme 3/Oligopoly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Theme 3/Oligopoly.md"
               }
             }
           }
@@ -198,9 +157,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c58912580734f3ef",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
+    "Theme 4/Strategies for development.md",
+    "Theme 4/Constraints to economic development.md",
+    "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
+    "Theme 3/Oligopoly.md",
+    "Index.md",
     "Theme 3/Government intervention.md",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC4 govt intervention - latest version.pdf",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC2.pdf",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC1.pdf",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230324161508.png",
     "Images/Pasted image 20230324152710.png",
@@ -210,30 +177,22 @@
     "Theme 3/Introduction to theory of the firm.md",
     "OffShoots/Economics in Command and Planned economies.md",
     "OffShoots",
-    "Index.md",
     "Images/Pasted image 20230323121144.png",
     "Images/Pasted image 20230323113716.png",
-    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC1.pdf",
     "Theme 3/Labour markets.md",
     "Theme 3/Market structures.md",
-    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC2.pdf",
-    "Theme 3/Oligopoly.md",
     "Images/Pasted image 20230316095339.png",
-    "Theme 4/Strategies for development.md",
     "Theme 4/Trading blocs and patterns of trade.md",
-    "Theme 4/Constraints to economic development.md",
     "Theme 4/Financial markets.md",
     "Theme 4/Globalisation.md",
     "Theme 4/Inequality & poverty.md",
     "Theme 4/Macroeconomic policies.md",
     "Theme 4/Trade.md",
-    "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
     "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC3 mkt structures cont growth rationaln bus objs.pdf",
     "Excalidraw",
     "Images/Pasted image 20230316002401.png",
     "Images/Pasted image 20230316002338.png",
-    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC4 govt intervention - latest version.pdf",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
     "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
     "Images/Pasted image 20230307230838.png",
