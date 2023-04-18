@@ -1,7 +1,7 @@
 {
-  "strategy": "default",
+  "strategy": "english-only",
   "cedictPath": "./cedict_ts.u8",
-  "matchStrategy": "partial",
+  "matchStrategy": "prefix",
   "fuzzyMatch": true,
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
@@ -21,7 +21,7 @@
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
   "descriptionOnSuggestion": "Short",
-  "selectSuggestionKeys": "Enter",
+  "selectSuggestionKeys": "Tab",
   "additionalCycleThroughSuggestionsKeys": "None",
   "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
   "openSourceFileKey": "None",
@@ -71,8 +71,8 @@
     "competition": {
       "competition": {
         "currentFile": {
-          "count": 7,
-          "lastUpdated": 1679673505513
+          "count": 10,
+          "lastUpdated": 1681811064330
         }
       }
     },
@@ -361,6 +361,78 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681596041053
+        }
+      }
+    },
+    "target": {
+      "target": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681808392999
+        }
+      }
+    },
+    "Budget": {
+      "Budget": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681808433800
+        }
+      }
+    },
+    "contestibillity": {
+      "contestibillity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681809499250
+        }
+      }
+    },
+    "industry": {
+      "industry": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681810281370
+        }
+      }
+    },
+    "monopoly": {
+      "monopoly": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681810307895
+        }
+      }
+    },
+    "barriers": {
+      "barriers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681810292981
+        }
+      }
+    },
+    "power": {
+      "power": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681810309895
+        }
+      }
+    },
+    "Deregulation": {
+      "Deregulation": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681810693645
+        }
+      }
+    },
+    "Competitive": {
+      "Competitive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681811051396
         }
       }
     }

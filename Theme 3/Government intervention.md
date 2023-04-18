@@ -67,7 +67,6 @@ A price cap is an upper limit for the price increase that a firm can add to thei
 It is difficult for the government to know where K and X actually lie. The company may also have better information about costs than the regulator. This may result in prices being kept high as the regulator has limited information and may become a victim of regulatory capture. 
 Firms may improve efficiency and look for productivity gains (reduce x-inefficiency) in order to increase profits. However the firm might achieve its productivity gains by reducing the quality of the goods or by investing less in the future.
 
-
 #### Profit regulation
 Another way that monopolists can be controlled is by fixing a maximum level of profit that they can earn. The government should set a level of profit such that the monopolist makes no more profit than if the industry were perfectly competitive. In practice this is the operating costs plus a rate of return.
 
@@ -77,11 +76,38 @@ This regulation method allows a firm to make a certain level of profit based on 
 The impact of this is that firms are not rewarded for their success but instead penalised for it and encouraged to make a limited profit. 
 
 ### Quality standards & performance targets
-A profit maximising monopolist is focussed on profit and not quality. A method of control is by setting quality or performance standards. Monopolists may resist the imposition and may attempt to find ways around the targets.
+A profit maximising monopolist is focused on profit and not quality. A method of control is by setting quality or performance standards. Monopolists may resist the imposition and may attempt to find ways around the targets.
+
+## Promoting competition and contestibillity 
+### Small businesses
+Government intervention generally helps small businesses. This is because these businesses provide 60% of jobs and 50% of GDP in the UK. Small businesses are also more often more innovative and can challenge existing firms in an industry. The government can help these companies by:
+- Lowering rate of corporation tax.
+- VAT relief for small businesses.
+- Act as a guarantor for bank loans.
+- Encourage public sector bodies to give business to small firms.
+
+### Deregulation 
+Another benefit government can do to increase competition is by decreasing regulation. 
+	This can spur competition due to greater efficiency leading to lower costs and prices. 
+	Government regulation often involves excessive costs of bureaucracy.
+	However it may be difficult to create effective competition in an industry which is a natural monopoly - high barriers to entry. Deregulation may create a private firm with monopoly power.
+	Deregulation could lead to a compromise of public services with poorer quality provision.
+
+### Competitive tendering for government contracts
+Some services are state provided or subsidised as they are merit or public goods- private sector provision is inadequate or inequitable. State financing of these goods/services does not require state production the public sector could purchase them from private sector.
+Contracting out: getting private sector firms to produce the goods and services, which are then provided by the state for its citizens.
+Competitive tendering: introducing competition amongst private sector firms, which put in bids for work, which is contracted out by the public sector.
+
+### Public private partnerships (PPPs)
 
 
-## Promoting competition and contestability
 
-## Protecting suppliers & employees
+## Protecting suppliers & employees (29)
+
+
+
 
 ## Limitations to government intervention
+
+
+
