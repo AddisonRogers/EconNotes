@@ -6,6 +6,7 @@
       {
         "id": "bd344020800d0702",
         "type": "tabs",
+        "dimension": 65.74136763710223,
         "children": [
           {
             "id": "6b6352af63ceebb4",
@@ -13,9 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 3/Oligopoly.md",
+                "file": "Theme 4/Macroeconomic policies.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4e415b7541964fe5",
+        "type": "tabs",
+        "dimension": 34.25863236289777,
+        "children": [
+          {
+            "id": "93efbdd24c37a06d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf"
               }
             }
           }
@@ -73,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 3/Oligopoly.md",
+                "file": "Theme 4/Macroeconomic policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 3/Oligopoly.md",
+                "file": "Theme 4/Macroeconomic policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 3/Oligopoly.md"
+                "file": "Theme 4/Macroeconomic policies.md"
               }
             }
           }
@@ -159,9 +176,11 @@
   },
   "active": "6b6352af63ceebb4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Theme 3/Oligopoly.md",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
+    "Theme 4/Macroeconomic policies.md",
+    "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
+    "Theme 3/Oligopoly.md",
+    "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230407181400.png",
     "Images/Pasted image 20230407175554.png",
     "Images/Pasted image 20230407154151.png",
@@ -190,14 +209,12 @@
     "Theme 4/Financial markets.md",
     "Theme 4/Globalisation.md",
     "Theme 4/Inequality & poverty.md",
-    "Theme 4/Macroeconomic policies.md",
     "Theme 4/Trade.md",
     "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC3 mkt structures cont growth rationaln bus objs.pdf",
     "Excalidraw",
     "Images/Pasted image 20230316002401.png",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
-    "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf",
-    "NetFolder/Theme 4 A Global perspective/CC8-Strategies promoting development 2020.pdf"
+    "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf"
   ]
 }
