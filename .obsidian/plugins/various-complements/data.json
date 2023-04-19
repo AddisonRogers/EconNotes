@@ -84,14 +84,6 @@
         }
       }
     },
-    "independent": {
-      "independent": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679004373686
-        }
-      }
-    },
     "Competition": {
       "Competition": {
         "currentFile": {
@@ -433,6 +425,54 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681811051396
+        }
+      }
+    },
+    "Quantitative": {
+      "Quantitative": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681933918858
+        }
+      }
+    },
+    "fluctuate": {
+      "fluctuate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681939189489
+        }
+      }
+    },
+    "pandemic": {
+      "pandemic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681944035294
+        }
+      }
+    },
+    "companies": {
+      "companies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681944265784
+        }
+      }
+    },
+    "Problems": {
+      "Problems": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681944296934
+        }
+      }
+    },
+    "difficult": {
+      "difficult": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681944316945
         }
       }
     }

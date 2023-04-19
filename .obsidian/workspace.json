@@ -6,7 +6,7 @@
       {
         "id": "969dc99f050f89eb",
         "type": "tabs",
-        "dimension": 59.49920508744037,
+        "dimension": 59.49920508744038,
         "children": [
           {
             "id": "6c805da567e985a5",
@@ -32,13 +32,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "619d90487fd5e1a9",
         "type": "tabs",
-        "dimension": 40.50079491255962,
+        "dimension": 40.50079491255963,
         "children": [
           {
             "id": "7b94cea26ba22681",
@@ -60,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 3/Government intervention.md",
+                "file": "Theme 4/Macroeconomic policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 3/Government intervention.md",
+                "file": "Theme 4/Macroeconomic policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 3/Government intervention.md"
+                "file": "Theme 4/Macroeconomic policies.md"
               }
             }
           }
@@ -200,8 +197,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "6c805da567e985a5",
   "lastOpenFiles": [
+    "Images/Pasted image 20230419213117.png",
+    "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
     "Theme 4/Macroeconomic policies.md",
     "Theme 3/Government intervention.md",
     "Theme 3/Labour markets.md",
@@ -212,7 +211,6 @@
     "Images/Pasted image 20230407181400.png",
     "Images/Pasted image 20230407175554.png",
     "Images/Pasted image 20230407154151.png",
-    "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
     "NetFolder/Theme 4 A Global perspective/Addison Rogers - CC9 Macroeconomic policy ST 2022.pdf",
     "NetFolder/Theme 4 A Global perspective/CC7 Inequality & poverty Simon's version 2020.pdf",
