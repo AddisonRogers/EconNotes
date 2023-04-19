@@ -15,7 +15,7 @@ If there is a breach in the CMA's eyes there may be fines up to 10% of global sa
 CMA also stops merger acquisitions if they have a combined market share in the UK of more than 25%. 
 
 ### European commission
-The european commission is responsible for investigating and punishing firms which breach EU competition law. This commission acts and affects trade across national boundaries in the EU.
+The European commission is responsible for investigating and punishing firms which breach EU competition law. This commission acts and affects trade across national boundaries in the EU.
 
 ## Merger control 
 Mergers and takeovers between firms can lead to:
@@ -99,15 +99,44 @@ Contracting out: getting private sector firms to produce the goods and services,
 Competitive tendering: introducing competition amongst private sector firms, which put in bids for work, which is contracted out by the public sector.
 
 ### Public private partnerships (PPPs)
+PPPs are a partnership between the public sector and the private sector where the public sector and the private sector companies collaborate to deliver services. 
+- One type is partial privatisation where state retains a part share.
+- Most common form in recent years has been PFI projects (Private finance initiative) where a private sector firm finances a project and collects income from it for a fixed period of time or the government leases the facility from the private company on a long lease.
+PFI projects has enabled the government to gain many new public sector facilities without up-front payment and therefore avoids raising taxes or borrowing. 
+
+### Privatisation
+Arguments in favour:
+- Promotion of competition.
+- Cost (productive efficiency) : reduce X-inefficiency.
+- Choice and quality.
+- Innovation (dynamic efficiency).
+- The invisible hand of the market (resource allocation)
+The process of privatisation can also achieve:
+- Wider share of ownership "popular capitalism".
+- Reduction in public borrowing and state spending.
 
 
+## Protecting suppliers & employees 
+### Restrictions on monopsony power of firms
+The government is responsible to regulate the relationship between the largest buyers and their suppliers. 
 
-## Protecting suppliers & employees (29)
+### Nationalisation
+Nationalisation is the transfer of firms or assets from private sector ownership to state ownership. 
+- Private monopoly is assumed to maximise profit, this leads to an inefficient level of output.
+- Nationalisation aims to change the goals of the firm, the industry is tasked to maximise social welfare not private profit. 
 
-
-
+Arguments in favour of nationalisation includes:
+- Lower costs (productive efficiency) from economies of scale by merging numerous previously private businesses if it is a natural monopoly, also no marketing costs.
+- Better management: viewed as opportunity to appoint efficient modern management to run industries to maximise net social benefit. It is argued previous private owners sought quiet life or short run profit. 
+- Control of monopolies: Easy and efficient way of controlling local monopolies. 
+- Maximising of net social benefit not private profit: Where externalities argued to be present.
+- Greater control of economy: for government to manage unstable market economy. 
+- Fairer distribution of resources: from owners to workers / consumers. 
 
 ## Limitations to government intervention
+**Regulatory capture** is a situation in which the regulator of an industry ends up acting for the firm rather than regulating it and acting in the interest of consumers. Some economists argue that regulation is **not** in the public interest at all as the regulatory agencies come to be dominated by the industries being regulated over time. However this is an extreme view and it is more often slightly influenced rather than being fully captured. 
 
+### Public interest theory 
+The idea that regulatory bodies will correct market failures and operate in the interests of society follows public interest theory. This theory is regulation is supplied in response to the demand of the public for the correction of inefficient or inequitable market practices. Regulation in this situation is assumed to benefit society as a whole rather than few interests. 
 
 

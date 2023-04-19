@@ -132,7 +132,6 @@ Intermediate exchange rate systems are the most common. Past systems included:
 
 ## Macro-economic policy in a global context
 
-
 ### 2008 Financial crisis 
 As the world economy recovered from the financial crisis many European governments introduced austerity measures to reduce their budget deficits. This meant cutting government spending and raising taxes. Governments following 
 

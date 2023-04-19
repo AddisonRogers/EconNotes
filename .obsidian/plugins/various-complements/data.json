@@ -71,16 +71,16 @@
     "competition": {
       "competition": {
         "currentFile": {
-          "count": 10,
-          "lastUpdated": 1681811064330
+          "count": 11,
+          "lastUpdated": 1681946724990
         }
       }
     },
     "efficiency": {
       "efficiency": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679674980976
+          "count": 5,
+          "lastUpdated": 1681946753752
         }
       }
     },
@@ -223,8 +223,8 @@
     "allocative": {
       "allocative": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679671360210
+          "count": 2,
+          "lastUpdated": 1681946830281
         }
       }
     },
@@ -383,16 +383,16 @@
     "industry": {
       "industry": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681810281370
+          "count": 2,
+          "lastUpdated": 1681948036915
         }
       }
     },
     "monopoly": {
       "monopoly": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1681810307895
+          "count": 3,
+          "lastUpdated": 1681948009145
         }
       }
     },
@@ -455,8 +455,8 @@
     "companies": {
       "companies": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681944265784
+          "count": 2,
+          "lastUpdated": 1681945872719
         }
       }
     },
@@ -473,6 +473,78 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681944316945
+        }
+      }
+    },
+    "partnerships": {
+      "partnerships": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681945839090
+        }
+      }
+    },
+    "X-inefficiency": {
+      "X-inefficiency": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681946740275
+        }
+      }
+    },
+    "privatisation": {
+      "privatisation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681946840249
+        }
+      }
+    },
+    "Restrict": {
+      "Restrict": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681947195607
+        }
+      }
+    },
+    "Nationalisation": {
+      "Nationalisation": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1681948028706
+        }
+      }
+    },
+    "corporation": {
+      "corporation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681947984032
+        }
+      }
+    },
+    "Arguments": {
+      "Arguments": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681948123598
+        }
+      }
+    },
+    "nationalisation": {
+      "nationalisation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681948126895
+        }
+      }
+    },
+    "efficient": {
+      "efficient": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681948404621
         }
       }
     }
