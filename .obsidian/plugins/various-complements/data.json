@@ -271,8 +271,8 @@
     "productivity": {
       "productivity": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679675023507
+          "count": 2,
+          "lastUpdated": 1681996474049
         }
       }
     },
@@ -665,6 +665,118 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681951762100
+        }
+      }
+    },
+    "influecne": {
+      "influecne": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681996336556
+        }
+      }
+    },
+    "Terms": {
+      "Terms": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681996748255
+        }
+      }
+    },
+    "Subsitutes": {
+      "Subsitutes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681996803051
+        }
+      }
+    },
+    "definition": {
+      "definition": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1681996945957
+        }
+      }
+    },
+    "elasticity": {
+      "elasticity": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681997056440
+        }
+      }
+    },
+    "quantity": {
+      "quantity": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681997287429
+        }
+      }
+    },
+    "ceteris": {
+      "ceteris": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681998023246
+        }
+      }
+    },
+    "relationship": {
+      "relationship": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681997420583
+        }
+      }
+    },
+    "Equilibrium": {
+      "Equilibrium": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681997441044
+        }
+      }
+    },
+    "equilibrium": {
+      "equilibrium": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1681997548981
+        }
+      }
+    },
+    "invisible": {
+      "invisible": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681997498662
+        }
+      }
+    },
+    "paribus": {
+      "paribus": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681998025057
+        }
+      }
+    },
+    "Substitutes": {
+      "Substitutes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681998098159
+        }
+      }
+    },
+    "Complements": {
+      "Complements": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681998101970
         }
       }
     }

@@ -6,20 +6,8 @@
       {
         "id": "9dbb2976a052a853",
         "type": "tabs",
-        "dimension": 55.86056644880174,
+        "dimension": 62.72563176895307,
         "children": [
-          {
-            "id": "d0770894fe83958f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theme 4/Trading blocs and patterns of trade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "a17bfd60e59f8501",
             "type": "leaf",
@@ -33,7 +21,7 @@
             }
           },
           {
-            "id": "b310dbbf07194b96",
+            "id": "5cebd4db60725929",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,34 +33,37 @@
             }
           },
           {
-            "id": "e932878da2080907",
+            "id": "b310dbbf07194b96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 4/Inequality & poverty.md",
+                "file": "Theme 1/Nature of economics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07b86e831e97c966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theme 1/Introduction to markets and market failure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "0e855bd188e7d487",
         "type": "tabs",
-        "dimension": 44.13943355119826,
+        "dimension": 37.274368231046935,
         "children": [
-          {
-            "id": "70215733d740add7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NetFolder/Theme 4 A Global perspective/CC4 trade blocs and patterns Rob & Simon 2019-20.pdf"
-              }
-            }
-          },
           {
             "id": "ebf1e414cb55ddbe",
             "type": "leaf",
@@ -94,16 +85,17 @@
             }
           },
           {
-            "id": "145b45b876f2f23c",
+            "id": "3a63a1deb4193e50",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "NetFolder/Theme 4 A Global perspective/CC7 Inequality & poverty Simon's version 2020.pdf"
+                "file": "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC2 - Demand and supply.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 4/Trading blocs and patterns of trade.md",
+                "file": "Theme 1/Introduction to markets and market failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 4/Trading blocs and patterns of trade.md",
+                "file": "Theme 1/Introduction to markets and market failure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 4/Trading blocs and patterns of trade.md"
+                "file": "Theme 1/Introduction to markets and market failure.md"
               }
             }
           }
@@ -227,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,17 +236,21 @@
   },
   "active": "a580585ddb566a7b",
   "lastOpenFiles": [
+    "Theme 1/Nature of economics.md",
+    "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC2 - Demand and supply.pdf",
+    "Theme 1/Introduction to markets and market failure.md",
+    "Theme 4/Financial markets.md",
+    "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC1 Nature of Economics 2018.pdf",
+    "Theme 4/Inequality & poverty.md",
+    "Theme 3/Labour markets.md",
+    "Theme 4/Trading blocs and patterns of trade.md",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
     "Images/Pasted image 20230420015007.png",
     "Images/Pasted image 20230420014957.png",
     "Images/Pasted image 20230420012836.png",
     "NetFolder/Theme 4 A Global perspective/CC4 trade blocs and patterns Rob & Simon 2019-20.pdf",
-    "Theme 4/Trading blocs and patterns of trade.md",
     "NetFolder/Theme 4 A Global perspective/CC7 Inequality & poverty Simon's version 2020.pdf",
-    "Theme 4/Inequality & poverty.md",
     "NetFolder/Theme 4 A Global perspective/CC6 Financial Sector 2020.pdf",
-    "Theme 4/Financial markets.md",
-    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
-    "Theme 3/Labour markets.md",
     "Theme 4/Trade.md",
     "Theme 4/Strategies for development.md",
     "Theme 4/Macroeconomic policies.md",
@@ -273,15 +270,11 @@
     "Images/Pasted image 20230407175554.png",
     "Images/Pasted image 20230407154151.png",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
-    "NetFolder/Theme 4 A Global perspective/Addison Rogers - CC9 Macroeconomic policy ST 2022.pdf",
-    "NetFolder/Theme 4 A Global perspective/CC5 Exchange rates & Monetary union Simon's version.pdf",
     "Images/Pasted image 20230324161508.png",
     "Images/Pasted image 20230324152710.png",
     "Images/Pasted image 20230324152003.png",
     "Excalidraw/Drawing 2023-03-24 15.17.44.excalidraw.md",
     "Index.md",
-    "Theme 1/Nature of economics.md",
-    "Images/Pasted image 20230303141243.png",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md"
   ]
