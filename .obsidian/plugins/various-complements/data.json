@@ -71,16 +71,34 @@
     "competition": {
       "competition": {
         "currentFile": {
+<<<<<<< HEAD
           "count": 11,
           "lastUpdated": 1681946724990
+=======
+          "count": 1,
+          "lastUpdated": 1678948483592
+>>>>>>> origin/main
         }
       }
     },
     "efficiency": {
       "efficiency": {
         "currentFile": {
+<<<<<<< HEAD
           "count": 5,
           "lastUpdated": 1681946753752
+=======
+          "count": 1,
+          "lastUpdated": 1678949706089
+        }
+      }
+    },
+    "independent": {
+      "independent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679004373686
+>>>>>>> origin/main
         }
       }
     },
@@ -111,8 +129,13 @@
     "Constraints to economic development": {
       "Constraints to economic development": {
         "internalLink": {
+<<<<<<< HEAD
+          "count": 1,
+          "lastUpdated": 1679572840216
+=======
           "count": 3,
           "lastUpdated": 1680877992991
+>>>>>>> origin/main
         }
       }
     },
@@ -159,8 +182,8 @@
     "Government intervention": {
       "Government intervention": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1679669839582
+          "count": 1,
+          "lastUpdated": 1679575526785
         }
       }
     },
@@ -180,26 +203,29 @@
         }
       }
     },
-    "Investigating": {
-      "Investigating": {
+    "authority": {
+      "authority": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679670190231
+          "lastUpdated": 1679692425921
         }
       }
     },
-    "there": {
-      "there": {
+    "intervention": {
+      "intervention": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679670205008
+          "lastUpdated": 1679692477625
         }
       }
     },
-    "european": {
-      "european": {
+    "businesses": {
+      "businesses": {
         "currentFile": {
           "count": 1,
+<<<<<<< HEAD
+          "lastUpdated": 1679692481603
+=======
           "lastUpdated": 1679670388883
         }
       }
@@ -281,6 +307,7 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679675167841
+>>>>>>> origin/main
         }
       }
     },

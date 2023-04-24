@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af91c0e2c5d4ede6",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Theme 1/Nature of economics.md",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 3/Oligopoly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 3/Oligopoly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Theme 3/Oligopoly.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,8 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "af91c0e2c5d4ede6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Theme 3/Oligopoly.md",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC4. Market failure.pdf",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC5 Government Failure.pdf",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC3 - D & S applications; behaviouralv21819.pdf",
@@ -170,7 +180,6 @@
     "NetFolder/Theme 2 The UK economy performance and policies/CC4_unemployment.pdf",
     "NetFolder/Theme 2 The UK economy performance and policies/CC3 growth.pdf",
     "NetFolder/Theme 2 The UK economy performance and policies/CC2 AS & AS.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/CC1 Introduction to macroeconomics 2018.pdf",
     "Theme 1/Introduction to markets and market failure.md",
     "Theme 3/Labour markets.md",
     "Theme 1/Nature of economics.md",
@@ -186,7 +195,6 @@
     "Theme 4/Globalisation.md",
     "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
     "Theme 4/Constraints to economic development.md",
-    "Theme 3/Oligopoly.md",
     "Theme 3/Market structures.md",
     "Theme 3/Introduction to theory of the firm.md",
     "Theme 3/Government intervention.md",
@@ -200,7 +208,6 @@
     "Images/Pasted image 20230324152003.png",
     "Excalidraw/Drawing 2023-03-24 15.17.44.excalidraw.md",
     "Index.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md"
   ]
 }

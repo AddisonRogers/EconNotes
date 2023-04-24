@@ -115,10 +115,24 @@ The process of privatisation can also achieve:
 - Wider share of ownership "popular capitalism".
 - Reduction in public borrowing and state spending.
 
+<<<<<<< HEAD
 
 ## Protecting suppliers & employees 
 ### Restrictions on monopsony power of firms
 The government is responsible to regulate the relationship between the largest buyers and their suppliers. 
+=======
+## Promoting competition and contestability
+The different ways government intervention can help businesses:
+- Enhance competition between firms through the promotion of small businesses. 
+- Deregulation.
+- Competitive tendering for government contracts.
+- Privatisation. 
+
+
+
+
+
+>>>>>>> origin/main
 
 ### Nationalisation
 Nationalisation is the transfer of firms or assets from private sector ownership to state ownership. 
