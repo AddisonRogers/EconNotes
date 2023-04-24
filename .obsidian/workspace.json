@@ -25,7 +25,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Theme 1/Nature of economics.md",
+                "file": ".obsidian/plugins/various-complements/data.json",
                 "staged": true
               }
             }
@@ -166,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af91c0e2c5d4ede6",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Theme 3/Oligopoly.md",
