@@ -779,6 +779,14 @@
           "lastUpdated": 1681998101970
         }
       }
+    },
+    "costs": {
+      "costs": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682026228366
+        }
+      }
     }
   }
 }

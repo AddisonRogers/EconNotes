@@ -94,9 +94,22 @@ Factors that cause the demand curve to shift:
 A price change will result in a movement along the supply curve. A price rise will cause a movement along the supply curve to the right. This is called an extension of supply. A price fall will cause a movement along the supply curve to the left. This is called a contraction of supply.
 
 #### Shifts of the supply curve
-The supply curve represents the quantity of a good that suppliers wish to sell at any given price.
+The supply curve represents the quantity of a good that suppliers wish to sell at any given price. As the price of a good rises, suppliers will have an incentive to increase their quantity supplied as they will gain a higher revenue for each unit they sell. Therefore, the supply curve slopes upwards from left to right.
+Factors that cause the supply curve to shift:
+- Change in production costs 
+- Improvement in production methods
+- Changes in prices of other goods
+- Goods in joint supply
+- Weather or natural disasters 
+- The aims and objectives of producers
+- Expectations of future prices
+- Indirect taxes and subsidies
+- New firms enter or leave the industry
+- An increase in the factors of production 
 
-## Consumer and producer surplus (21) 
+## Consumer and producer surplus 
+**Consumer surplus** is the difference between the amount a consumer is willing to pay and the amount they actually pay for the good.
+**Producer surplus** is the difference between the price producers are willing to supply a good for and the actual market price.
 
 ## Price elasticity of demand & supply
 
