@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -157,7 +158,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07b86e831e97c966",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC4. Market failure.pdf",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC5 Government Failure.pdf",
