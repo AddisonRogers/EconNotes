@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bd344020800d0702",
+        "id": "75a5ce32a2b3008a",
         "type": "tabs",
         "children": [
           {
-            "id": "6b6352af63ceebb4",
+            "id": "10bcbdc93b2649cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theme 3/Government intervention.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -38,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,50 +148,88 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "floating": {
+    "id": "e371e352c37c08cb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "96099868896e105d",
+        "type": "window",
+        "children": [
+          {
+            "id": "51cd8aec4ca3837c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b6352af63ceebb4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Edexcel A Level Economics A specification.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2345,
+        "y": 0,
+        "width": 987,
+        "height": 1390,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5b35077d1a85afbd",
   "lastOpenFiles": [
-    "Theme 3/Government intervention.md",
-    "conflict-files-obsidian-git.md",
-    "Theme 1/Introduction to markets and market failure.md",
+    "Theme 4/Trading blocs and patterns of trade.md",
+    "Theme 4/4.5 Role of the state in the macroeconomy.md",
+    "etc.md",
+    "Theme 4/4.4 Financial Sector.md",
+    "Theme 4/4.3 Emerging and developing economies.md",
+    "Theme 4/4.2 Inequality & poverty.md",
+    "Theme 4/4.1 International economies.md",
+    "OffShoots/Economics in Command and Planned economies.md",
+    "Index.md",
     "Syllabus Edexel.md",
+    "Edexcel A Level Economics A specification.pdf",
+    "Balance of payments.md",
+    "Theme 4/Strategies for development.md",
+    "Theme 4/Trade.md",
+    "Theme 4/Globalisation.md",
+    "New Theme 3/3.5 Labour Market.md",
+    "New Theme 3/3.4 Market structures.md",
+    "New Theme 3/3.3 Revenues, costs and profits.md",
+    "New Theme 3/3.2 Business objectives.md",
+    "New Theme 3/3.1 Business Growth.md",
+    "Theme 1/1.1 Nature of economics.md",
+    "Theme 2/2.5 Economic growth.md",
+    "Theme 2/2.4 National income.md",
+    "Theme 2/2.3 Aggregate supply.md",
+    "Theme 2/2.2 Aggregate demand.md",
+    "Theme 2/2.1 Measures of economic performance.md",
+    "Theme 1/1.4 Government intervention.md",
+    "New Theme 4",
+    "New Theme 3",
     "Images/Pasted image 20230420015007.png",
     "Images/Pasted image 20230420014957.png",
     "Images/Pasted image 20230420012836.png",
     "Images/Pasted image 20230419213117.png",
-    "Edexcel A Level Economics A specification.pdf",
-    "Balance of payments.md",
-    "Theme 4/Macroeconomic policies.md",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
-    "Theme 3/Oligopoly.md",
     "Images/Pasted image 20230407181400.png",
     "Images/Pasted image 20230407175554.png",
     "Images/Pasted image 20230407154151.png",
-    "Theme 4/Strategies for development.md",
-    "Theme 4/Constraints to economic development.md",
-    "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
-    "Index.md",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC4 govt intervention - latest version.pdf",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC2.pdf",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC1.pdf",
     "Images/Pasted image 20230324161508.png",
     "Images/Pasted image 20230324152710.png",
     "Images/Pasted image 20230324152003.png",
-    "Excalidraw/Drawing 2023-03-24 15.17.44.excalidraw.md",
-    "Theme 1/Nature of economics.md",
-    "Theme 3/Introduction to theory of the firm.md",
-    "OffShoots/Economics in Command and Planned economies.md",
     "OffShoots",
-    "Theme 3/Labour markets.md",
-    "Theme 3/Market structures.md",
-    "Theme 4/Trading blocs and patterns of trade.md",
-    "Theme 4/Financial markets.md",
-    "Theme 4/Globalisation.md",
-    "Theme 4/Inequality & poverty.md",
-    "Theme 4/Trade.md",
-    "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md",
-    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC3 mkt structures cont growth rationaln bus objs.pdf",
-    "Excalidraw",
-    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf"
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC3 mkt structures cont growth rationaln bus objs.pdf"
   ]
 }
