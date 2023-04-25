@@ -6,7 +6,6 @@
       {
         "id": "bd344020800d0702",
         "type": "tabs",
-        "dimension": 65.74136763710223,
         "children": [
           {
             "id": "6b6352af63ceebb4",
@@ -14,26 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 4/Macroeconomic policies.md",
+                "file": "Theme 3/Government intervention.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4e415b7541964fe5",
-        "type": "tabs",
-        "dimension": 34.25863236289777,
-        "children": [
-          {
-            "id": "93efbdd24c37a06d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf"
               }
             }
           }
@@ -91,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -111,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 4/Macroeconomic policies.md",
+                "file": "Theme 3/Government intervention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 4/Macroeconomic policies.md",
+                "file": "Theme 3/Government intervention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 4/Macroeconomic policies.md"
+                "file": "Theme 3/Government intervention.md"
               }
             }
           }
@@ -174,10 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b6352af63ceebb4",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
-    "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
     "Theme 4/Macroeconomic policies.md",
+    "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
     "Theme 3/Oligopoly.md",
     "conflict-files-obsidian-git.md",
