@@ -15,7 +15,7 @@ If there is a breach in the CMA's eyes there may be fines up to 10% of global sa
 CMA also stops merger acquisitions if they have a combined market share in the UK of more than 25%. 
 
 ### European commission
-The european commission is responsible for investigating and punishing firms which breach EU competition law. This commission acts and affects trade across national boundaries in the EU.
+The European commission is responsible for investigating and punishing firms which breach EU competition law. This commission acts and affects trade across national boundaries in the EU.
 
 ## Merger control 
 Mergers and takeovers between firms can lead to:
@@ -67,7 +67,6 @@ A price cap is an upper limit for the price increase that a firm can add to thei
 It is difficult for the government to know where K and X actually lie. The company may also have better information about costs than the regulator. This may result in prices being kept high as the regulator has limited information and may become a victim of regulatory capture. 
 Firms may improve efficiency and look for productivity gains (reduce x-inefficiency) in order to increase profits. However the firm might achieve its productivity gains by reducing the quality of the goods or by investing less in the future.
 
-
 #### Profit regulation
 Another way that monopolists can be controlled is by fixing a maximum level of profit that they can earn. The government should set a level of profit such that the monopolist makes no more profit than if the industry were perfectly competitive. In practice this is the operating costs plus a rate of return.
 
@@ -77,8 +76,51 @@ This regulation method allows a firm to make a certain level of profit based on 
 The impact of this is that firms are not rewarded for their success but instead penalised for it and encouraged to make a limited profit. 
 
 ### Quality standards & performance targets
-A profit maximising monopolist is focussed on profit and not quality. A method of control is by setting quality or performance standards. Monopolists may resist the imposition and may attempt to find ways around the targets.
+A profit maximising monopolist is focused on profit and not quality. A method of control is by setting quality or performance standards. Monopolists may resist the imposition and may attempt to find ways around the targets.
 
+## Promoting competition and contestibillity 
+### Small businesses
+Government intervention generally helps small businesses. This is because these businesses provide 60% of jobs and 50% of GDP in the UK. Small businesses are also more often more innovative and can challenge existing firms in an industry. The government can help these companies by:
+- Lowering rate of corporation tax.
+- VAT relief for small businesses.
+- Act as a guarantor for bank loans.
+- Encourage public sector bodies to give business to small firms.
+
+### Deregulation 
+Another benefit government can do to increase competition is by decreasing regulation. 
+	This can spur competition due to greater efficiency leading to lower costs and prices. 
+	Government regulation often involves excessive costs of bureaucracy.
+	However it may be difficult to create effective competition in an industry which is a natural monopoly - high barriers to entry. Deregulation may create a private firm with monopoly power.
+	Deregulation could lead to a compromise of public services with poorer quality provision.
+
+### Competitive tendering for government contracts
+Some services are state provided or subsidised as they are merit or public goods- private sector provision is inadequate or inequitable. State financing of these goods/services does not require state production the public sector could purchase them from private sector.
+Contracting out: getting private sector firms to produce the goods and services, which are then provided by the state for its citizens.
+Competitive tendering: introducing competition amongst private sector firms, which put in bids for work, which is contracted out by the public sector.
+
+### Public private partnerships (PPPs)
+PPPs are a partnership between the public sector and the private sector where the public sector and the private sector companies collaborate to deliver services. 
+- One type is partial privatisation where state retains a part share.
+- Most common form in recent years has been PFI projects (Private finance initiative) where a private sector firm finances a project and collects income from it for a fixed period of time or the government leases the facility from the private company on a long lease.
+PFI projects has enabled the government to gain many new public sector facilities without up-front payment and therefore avoids raising taxes or borrowing. 
+
+### Privatisation
+Arguments in favour:
+- Promotion of competition.
+- Cost (productive efficiency) : reduce X-inefficiency.
+- Choice and quality.
+- Innovation (dynamic efficiency).
+- The invisible hand of the market (resource allocation)
+The process of privatisation can also achieve:
+- Wider share of ownership "popular capitalism".
+- Reduction in public borrowing and state spending.
+
+<<<<<<< HEAD
+
+## Protecting suppliers & employees 
+### Restrictions on monopsony power of firms
+The government is responsible to regulate the relationship between the largest buyers and their suppliers. 
+=======
 ## Promoting competition and contestability
 The different ways government intervention can help businesses:
 - Enhance competition between firms through the promotion of small businesses. 
@@ -90,7 +132,25 @@ The different ways government intervention can help businesses:
 
 
 
+>>>>>>> origin/main
 
-## Protecting suppliers & employees
+### Nationalisation
+Nationalisation is the transfer of firms or assets from private sector ownership to state ownership. 
+- Private monopoly is assumed to maximise profit, this leads to an inefficient level of output.
+- Nationalisation aims to change the goals of the firm, the industry is tasked to maximise social welfare not private profit. 
+
+Arguments in favour of nationalisation includes:
+- Lower costs (productive efficiency) from economies of scale by merging numerous previously private businesses if it is a natural monopoly, also no marketing costs.
+- Better management: viewed as opportunity to appoint efficient modern management to run industries to maximise net social benefit. It is argued previous private owners sought quiet life or short run profit. 
+- Control of monopolies: Easy and efficient way of controlling local monopolies. 
+- Maximising of net social benefit not private profit: Where externalities argued to be present.
+- Greater control of economy: for government to manage unstable market economy. 
+- Fairer distribution of resources: from owners to workers / consumers. 
 
 ## Limitations to government intervention
+**Regulatory capture** is a situation in which the regulator of an industry ends up acting for the firm rather than regulating it and acting in the interest of consumers. Some economists argue that regulation is **not** in the public interest at all as the regulatory agencies come to be dominated by the industries being regulated over time. However this is an extreme view and it is more often slightly influenced rather than being fully captured. 
+
+### Public interest theory 
+The idea that regulatory bodies will correct market failures and operate in the interests of society follows public interest theory. This theory is regulation is supplied in response to the demand of the public for the correction of inefficient or inequitable market practices. Regulation in this situation is assumed to benefit society as a whole rather than few interests. 
+
+

@@ -1,0 +1,118 @@
+[[CC2 - Demand and supply.pdf]]
+
+## Key Terms
+| Terms                           | Definition |
+| ------------------------------- | ---------- |
+| Market                          |            |
+| Ceteris paribus                 |            |
+| Demand                          |            |
+| Demand curve                    |            |
+| Effective demand                |            |
+| Law of demand                   |            |
+| Extension of demand             |            |
+| Contraction of demand           |            |
+| Movement along the demand curve |            |
+| Shifts of demand curve          |            |
+| Disposable income               |            |
+| Substitutes                     |            |
+| Complements                     |            |
+| Supply                          |            |
+| Supply curve                    |            |
+| Total revenue                   |            |
+| Profit/loss                     |            |
+| Production costs                |            |
+| Movement along supply curve     |            |
+| Extension of supply             |            |
+| Contraction of supply           |            |
+| Shifts of supply curve          |            |
+| Indirect tax                    |            |
+| Subsidies                       |            |
+| PED definition                  |            |
+| Price elastic demand            |            |
+| Price inelastic demand          |            |
+| Unitary elastic demand          |            |
+| PES definition                  |            |
+| Price elastic supply            |            |
+| Price inelastic supply          |            |
+| YED definition and formula      |            |
+| Normal goods                    |            |
+| Inferior goods                  |            |
+| Luxury goods                    |            |
+| XED definition and formula      |            |
+| Positive XED                    |            |
+| Negative XED                    |            |
+| XED = 0                         |            |
+| Price mechanism                 |            |
+| Invisible hand                  |            |
+| Market equilibrium              |            |
+| Excess supply                   |            |
+| Excess demand                   |            |
+| Short run                       |            |
+| Long run                        |            |
+| Consumer surplus                |            |
+| Producer surplus                                |            |
+
+## Demand and supply
+### Markets
+A market is any convenient set of arrangements by which buyers and sellers communicate to exchange goods and services. Buyers demand goods from the market whilst sellers supply good to the market.
+
+### Demand
+The quantity demanded is the quantity of a good that consumers wish to buy at a given price.
+Market demand is the sum of all individual demand curves. 
+
+### Explaining the downward-sloping demand curve
+The law of demand states that there is an inverse relationship between quantity demanded and the price of a good or service, ceteris paribus. The demand curve shows the quantity demanded at any given price. The demand curve shows effective demand. The concept of diminishing marginal utility also influences the shape of the demand curve. 
+
+### Supply
+The quantity supplies is the quantity of a good that suppliers wish to sell at a given price. As the price rises, firms will have an incentive to produce more of a good This relationship can be illustrated using a supply curve. 
+
+### Equilibrium 
+The equilibrium price is where demand is equal to supply. It is called equilibrium because at equilibrium there is no tendency for price to change. 
+
+### Price mechanism
+The functions of the price mechanism are signalling, incentives and rationing (SIR) The market forces will cause price to adjust until demand is equal to supply. Adam smith called this the *invisible hand* of the market. 
+
+## Movements along the curve 
+### Movements along the demand curve
+A price change will result in a movement along the demand curve. A price rise will cause a movement along the demand curve to the left. This is called a contraction of demand (fall in quantity demanded). 
+A price fall will cause a movement along the demand curve to the right. This is called an extension of demand. 
+
+#### Shifts of the demand curve
+The demand curve is drawn using ceteris paribus. Changes in any of the factors other than price cause the demand curve to shift position.
+Factors that cause the demand curve to shift:
+- Changes in real income
+- Changes in tastes and fashions
+- Prices of other goods
+	- Substitutes 
+	- Complements 
+- Advertising and branding
+- Changes in the size and age distribution of the population
+- Social trends
+- Expectations of future prices
+
+### Movements along the supply curve
+A price change will result in a movement along the supply curve. A price rise will cause a movement along the supply curve to the right. This is called an extension of supply. A price fall will cause a movement along the supply curve to the left. This is called a contraction of supply.
+
+#### Shifts of the supply curve
+The supply curve represents the quantity of a good that suppliers wish to sell at any given price. As the price of a good rises, suppliers will have an incentive to increase their quantity supplied as they will gain a higher revenue for each unit they sell. Therefore, the supply curve slopes upwards from left to right.
+Factors that cause the supply curve to shift:
+- Change in production costs 
+- Improvement in production methods
+- Changes in prices of other goods
+- Goods in joint supply
+- Weather or natural disasters 
+- The aims and objectives of producers
+- Expectations of future prices
+- Indirect taxes and subsidies
+- New firms enter or leave the industry
+- An increase in the factors of production 
+
+## Consumer and producer surplus 
+**Consumer surplus** is the difference between the amount a consumer is willing to pay and the amount they actually pay for the good.
+**Producer surplus** is the difference between the price producers are willing to supply a good for and the actual market price.
+
+## Price elasticity of demand & supply
+
+## Income elasticity of demand
+
+## Cross elasticity of demand

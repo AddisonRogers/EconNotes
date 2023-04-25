@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "483a65d320cc43ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 3/Government intervention.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 3/Government intervention.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 3/Government intervention.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -157,13 +170,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "483a65d320cc43ed",
   "lastOpenFiles": [
+    "Theme 3/Government intervention.md",
+    "conflict-files-obsidian-git.md",
+    "Theme 1/Introduction to markets and market failure.md",
+    "Syllabus Edexel.md",
+    "Images/Pasted image 20230420015007.png",
+    "Images/Pasted image 20230420014957.png",
+    "Images/Pasted image 20230420012836.png",
+    "Images/Pasted image 20230419213117.png",
+    "Edexcel A Level Economics A specification.pdf",
+    "Balance of payments.md",
     "Theme 4/Macroeconomic policies.md",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
     "Theme 3/Oligopoly.md",
-    "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230407181400.png",
     "Images/Pasted image 20230407175554.png",
     "Images/Pasted image 20230407154151.png",
@@ -171,7 +193,6 @@
     "Theme 4/Constraints to economic development.md",
     "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
     "Index.md",
-    "Theme 3/Government intervention.md",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC4 govt intervention - latest version.pdf",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC2.pdf",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC1.pdf",
@@ -183,11 +204,8 @@
     "Theme 3/Introduction to theory of the firm.md",
     "OffShoots/Economics in Command and Planned economies.md",
     "OffShoots",
-    "Images/Pasted image 20230323121144.png",
-    "Images/Pasted image 20230323113716.png",
     "Theme 3/Labour markets.md",
     "Theme 3/Market structures.md",
-    "Images/Pasted image 20230316095339.png",
     "Theme 4/Trading blocs and patterns of trade.md",
     "Theme 4/Financial markets.md",
     "Theme 4/Globalisation.md",
@@ -196,8 +214,6 @@
     "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC3 mkt structures cont growth rationaln bus objs.pdf",
     "Excalidraw",
-    "Images/Pasted image 20230316002401.png",
-    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
-    "Images/Addison Rogers - CC8-strategies promoting development SF 2023 Group F1.docx.pdf"
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf"
   ]
 }

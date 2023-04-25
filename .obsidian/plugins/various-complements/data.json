@@ -1,7 +1,7 @@
 {
   "strategy": "default",
   "cedictPath": "./cedict_ts.u8",
-  "matchStrategy": "partial",
+  "matchStrategy": "prefix",
   "fuzzyMatch": true,
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
@@ -60,316 +60,35 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "economy": {
-      "economy": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1679575835904
-        }
-      }
-    },
-    "competition": {
-      "competition": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678948483592
-        }
-      }
-    },
-    "efficiency": {
-      "efficiency": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678949706089
-        }
-      }
-    },
-    "independent": {
-      "independent": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679004373686
-        }
-      }
-    },
-    "Competition": {
-      "Competition": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679445920138
-        }
-      }
-    },
-    "Microeconomics": {
-      "Microeconomics": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679572232500
-        }
-      }
-    },
-    "Non-renewable": {
-      "Non-renewable": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679572653451
-        }
-      }
-    },
-    "Constraints to economic development": {
-      "Constraints to economic development": {
-        "internalLink": {
-<<<<<<< HEAD
-          "count": 1,
-          "lastUpdated": 1679572840216
-=======
-          "count": 3,
-          "lastUpdated": 1680877992991
->>>>>>> origin/main
-        }
-      }
-    },
-    "Opportunity": {
-      "Opportunity": {
+    "account": {
+      "account": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1679572850853
+          "lastUpdated": 1682411153085
         }
       }
     },
-    "production": {
-      "production": {
+    "Income": {
+      "Income": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682410687963
+        }
+      }
+    },
+    "financial": {
+      "financial": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1679573080872
+          "lastUpdated": 1682411198229
         }
       }
     },
-    "resources": {
-      "resources": {
+    "investment": {
+      "investment": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679573089840
-        }
-      }
-    },
-    "opportunity": {
-      "opportunity": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679573537378
-        }
-      }
-    },
-    "Specialisation": {
-      "Specialisation": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679573822451
-        }
-      }
-    },
-    "Government intervention": {
-      "Government intervention": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679575526785
-        }
-      }
-    },
-    "self-interest": {
-      "self-interest": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679575941914
-        }
-      }
-    },
-    "scientific": {
-      "scientific": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679576138948
-        }
-      }
-    },
-    "authority": {
-      "authority": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679692425921
-        }
-      }
-    },
-    "intervention": {
-      "intervention": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679692477625
-        }
-      }
-    },
-    "businesses": {
-      "businesses": {
-        "currentFile": {
-          "count": 1,
-<<<<<<< HEAD
-          "lastUpdated": 1679692481603
-=======
-          "lastUpdated": 1679670388883
-        }
-      }
-    },
-    "consumers": {
-      "consumers": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679670393334
-        }
-      }
-    },
-    "commission": {
-      "commission": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679670396240
-        }
-      }
-    },
-    "allocative": {
-      "allocative": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679671360210
-        }
-      }
-    },
-    "impact": {
-      "impact": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679672200493
-        }
-      }
-    },
-    "Exchange rates, terms of trade, competitveness & monetary union": {
-      "Exchange rates, terms of trade, competitveness & monetary union": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1680877188275
-        }
-      }
-    },
-    "relevant": {
-      "relevant": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679672548750
-        }
-      }
-    },
-    "privatised": {
-      "privatised": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679673589183
-        }
-      }
-    },
-    "reduce": {
-      "reduce": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679674990284
-        }
-      }
-    },
-    "productivity": {
-      "productivity": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679675023507
-        }
-      }
-    },
-    "return": {
-      "return": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679675167841
->>>>>>> origin/main
-        }
-      }
-    },
-    "spending": {
-      "spending": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680877064480
-        }
-      }
-    },
-    "taxes": {
-      "taxes": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680877091111
-        }
-      }
-    },
-    "policy": {
-      "policy": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680877131866
-        }
-      }
-    },
-    "deficits": {
-      "deficits": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680877143280
-        }
-      }
-    },
-    "external": {
-      "external": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680877976774
-        }
-      }
-    },
-    "borrowing": {
-      "borrowing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681572489962
-        }
-      }
-    },
-    "expenditure": {
-      "expenditure": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1681596160606
-        }
-      }
-    },
-    "Structural": {
-      "Structural": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681596036601
-        }
-      }
-    },
-    "deficit": {
-      "deficit": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681596041053
+          "lastUpdated": 1682411464842
         }
       }
     }
