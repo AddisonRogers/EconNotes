@@ -4,34 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9dbb2976a052a853",
+        "id": "f938647426f735dd",
         "type": "tabs",
         "children": [
           {
-            "id": "07b86e831e97c966",
+            "id": "bcdf510dd05d0de5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Theme 3/Oligopoly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af91c0e2c5d4ede6",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/various-complements/data.json",
-                "staged": true
+                "file": "Edexcel A Level Economics A specification.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "balance of payment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Edexcel A Level Economics A specification.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Edexcel A Level Economics A specification.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Edexcel A Level Economics A specification.pdf"
+              }
             }
           }
         ],
@@ -166,33 +155,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "bcdf510dd05d0de5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Theme 1/Nature of economics.md",
+    "Edexcel A Level Economics A specification.pdf",
+    "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
+    "Theme 4/Globalisation.md",
+    "Theme 4/Macroeconomic policies.md",
+    "Syllabus Edexel.md",
+    "Balance of payments.md",
+    "Theme 4/Trading blocs and patterns of trade.md",
+    "Theme 4/Trade.md",
+    "NetFolder/Theme 4 A Global perspective/CC6 Financial Sector 2020.pdf",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
+    "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
+    "NetFolder/Theme 4 A Global perspective/CC8-Strategies promoting development 2020.pdf",
+    "NetFolder/Theme 4 A Global perspective/CC7 Inequality & poverty Simon's version 2020.pdf",
+    "Theme 4/Financial markets.md",
+    "Theme 4/Inequality & poverty.md",
+    "Theme 4/Strategies for development.md",
+    "Theme 1/Introduction to markets and market failure.md",
     "Theme 3/Oligopoly.md",
+    "conflict-files-obsidian-git.md",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC4. Market failure.pdf",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC5 Government Failure.pdf",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC3 - D & S applications; behaviouralv21819.pdf",
-    "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC2 - Demand and supply.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/CC7 Demand-Side Polcies and Conflicts.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/CC6 Supply Side Policies.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/CC5 inflation.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/CC4_unemployment.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/CC3 growth.pdf",
-    "NetFolder/Theme 2 The UK economy performance and policies/CC2 AS & AS.pdf",
-    "Theme 1/Introduction to markets and market failure.md",
     "Theme 3/Labour markets.md",
-    "Theme 1/Nature of economics.md",
-    "Theme 4/Financial markets.md",
-    "Theme 4/Inequality & poverty.md",
-    "Theme 4/Trading blocs and patterns of trade.md",
     "Images/Pasted image 20230420015007.png",
     "Images/Pasted image 20230420014957.png",
     "Images/Pasted image 20230420012836.png",
-    "Theme 4/Trade.md",
-    "Theme 4/Strategies for development.md",
-    "Theme 4/Macroeconomic policies.md",
-    "Theme 4/Globalisation.md",
     "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
     "Theme 4/Constraints to economic development.md",
     "Theme 3/Market structures.md",
