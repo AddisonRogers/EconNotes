@@ -71,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bcdf510dd05d0de5",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
     "Theme 1/Nature of economics.md",
     "Edexcel A Level Economics A specification.pdf",
