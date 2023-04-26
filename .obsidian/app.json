@@ -1,4 +1,6 @@
 {
   "spellcheck": true,
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

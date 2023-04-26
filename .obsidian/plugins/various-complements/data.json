@@ -60,35 +60,43 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "account": {
-      "account": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1682411153085
+    "Market structures": {
+      "Market structures": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682451365230
         }
       }
     },
-    "Income": {
-      "Income": {
+    "policies": {
+      "policies": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1682410687963
+          "lastUpdated": 1682454439524
         }
       }
     },
-    "financial": {
-      "financial": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1682411198229
+    "Labour markets": {
+      "Labour markets": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682457191497
         }
       }
     },
-    "investment": {
-      "investment": {
+    "trade": {
+      "trade": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1682411464842
+          "lastUpdated": 1682458590347
+        }
+      }
+    },
+    "expenditure": {
+      "expenditure": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682458888643
         }
       }
     }

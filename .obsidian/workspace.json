@@ -16,8 +16,21 @@
                 "file": "Edexcel A Level Economics A specification.pdf"
               }
             }
+          },
+          {
+            "id": "800052aa8a884c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edexcel A Level Economics A specification.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edexcel A Level Economics A specification.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edexcel A Level Economics A specification.pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -156,10 +169,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "800052aa8a884c43",
   "lastOpenFiles": [
-    "Theme 1/Nature of economics.md",
     "Edexcel A Level Economics A specification.pdf",
+    "conflict-files-obsidian-git.md",
+    "etc.md",
+    "Theme 3/3.6 Government intervention.md",
+    "Theme 2/2.6 Macroeconomic objectives and policies.md",
+    "Theme 2/2.5 Economic growth.md",
+    "Theme 2/2.4 National income.md",
+    "Theme 2/2.3 Aggregate supply.md",
+    "Theme 2/2.2 Aggregate demand.md",
+    "Theme 2/2.1 Measures of economic performance.md",
+    "README.md",
+    "New Theme 3/3.6 Government intervention.md",
+    "New Theme 3/3.5 Labour Market.md",
+    "New Theme 3/3.4 Market structures.md",
+    "New Theme 3/3.3 Revenues, costs and profits.md",
+    "New Theme 3/3.2 Business objectives.md",
+    "New Theme 3/3.1 Business Growth.md",
+    "New Theme 3",
+    "Theme 1/Nature of economics.md",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
     "Theme 4/Globalisation.md",
     "Theme 4/Macroeconomic policies.md",
@@ -174,32 +204,17 @@
     "NetFolder/Theme 4 A Global perspective/CC7 Inequality & poverty Simon's version 2020.pdf",
     "Theme 4/Financial markets.md",
     "Theme 4/Inequality & poverty.md",
-    "Theme 4/Strategies for development.md",
-    "Theme 1/Introduction to markets and market failure.md",
-    "Theme 3/Oligopoly.md",
-    "conflict-files-obsidian-git.md",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC4. Market failure.pdf",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC5 Government Failure.pdf",
-    "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC3 - D & S applications; behaviouralv21819.pdf",
-    "Theme 3/Labour markets.md",
     "Images/Pasted image 20230420015007.png",
     "Images/Pasted image 20230420014957.png",
     "Images/Pasted image 20230420012836.png",
-    "Theme 4/Exchange rates, terms of trade, competitveness & monetary union.md",
-    "Theme 4/Constraints to economic development.md",
-    "Theme 3/Market structures.md",
-    "Theme 3/Introduction to theory of the firm.md",
-    "Theme 3/Government intervention.md",
     "Images/Pasted image 20230419213117.png",
-    "OffShoots/Economics in Command and Planned economies.md",
     "Images/Pasted image 20230407181400.png",
     "Images/Pasted image 20230407175554.png",
     "Images/Pasted image 20230407154151.png",
     "Images/Pasted image 20230324161508.png",
     "Images/Pasted image 20230324152710.png",
-    "Images/Pasted image 20230324152003.png",
-    "Excalidraw/Drawing 2023-03-24 15.17.44.excalidraw.md",
-    "Index.md",
-    "Excalidraw/Drawing 2023-03-16 01.02.50.excalidraw.md"
+    "Images/Pasted image 20230324152003.png"
   ]
 }
