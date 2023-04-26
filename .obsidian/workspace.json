@@ -71,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -91,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Edexcel A Level Economics A specification.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Edexcel A Level Economics A specification.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Edexcel A Level Economics A specification.pdf"
+              }
             }
           }
         ],
@@ -151,11 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b35077d1a85afbd",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Theme 2/2.1 Measures of economic performance.md",
     "Edexcel A Level Economics A specification.pdf",
-    "conflict-files-obsidian-git.md",
     "etc.md",
     "Theme 3/3.6 Government intervention.md",
     "Theme 2/2.6 Macroeconomic objectives and policies.md",
