@@ -4,11 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "f938647426f735dd",
+        "id": "f14bbf902d594016",
         "type": "tabs",
         "children": [
           {
-            "id": "bcdf510dd05d0de5",
+            "id": "734ed9d5f831e3a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Theme 3/3.3 Revenues, costs and profits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11f912e75f89d855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theme 3/Market structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9078880926be7194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theme 3/Oligopoly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9acf5ee994641c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theme 4/4.1 International economies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f8735d8adae9bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theme 3/Labour markets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "7e44a0f7223a9660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85edc5fa0ef75aac",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -16,8 +83,19 @@
                 "file": "Edexcel A Level Economics A specification.pdf"
               }
             }
+          },
+          {
+            "id": "f9f56834c4bc03e6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "balance of payment",
+                "query": "$",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edexcel A Level Economics A specification.pdf",
+                "file": "Theme 3/Labour markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edexcel A Level Economics A specification.pdf",
+                "file": "Theme 3/Labour markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edexcel A Level Economics A specification.pdf"
+                "file": "Theme 3/Labour markets.md"
               }
             }
           }
@@ -158,50 +236,51 @@
   },
   "active": "a580585ddb566a7b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Theme 2/2.1 Measures of economic performance.md",
+    "Images/Pasted image 20230428153202.png",
+    "Images/Pasted image 20230428152138.png",
+    "Theme 4/4.1 International economies.md",
+    "Theme 3/Labour markets.md",
+    "Theme 3/Market structures.md",
+    "Theme 3/Introduction to theory of the firm.md",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
+    "john_sloman_7th_edition_economics.pdf",
     "Edexcel A Level Economics A specification.pdf",
-    "etc.md",
+    "Images/Pasted image 20230428150433.png",
+    "Images/Pasted image 20230428150301.png",
+    "New Theme 3/3.3 Revenues, costs and profits.md",
+    "New Theme 3/3.1 Business Growth.md",
+    "New Theme 3/3.2 Business objectives.md",
+    "Theme 3/Oligopoly.md",
+    "New Theme 3/3.4 Market structures.md",
     "Theme 3/3.6 Government intervention.md",
     "Theme 2/2.6 Macroeconomic objectives and policies.md",
     "Theme 2/2.5 Economic growth.md",
     "Theme 2/2.4 National income.md",
     "Theme 2/2.3 Aggregate supply.md",
     "Theme 2/2.2 Aggregate demand.md",
+    "Theme 2/2.1 Measures of economic performance.md",
+    "conflict-files-obsidian-git.md",
+    "etc.md",
     "README.md",
     "New Theme 3/3.6 Government intervention.md",
     "New Theme 3/3.5 Labour Market.md",
-    "New Theme 3/3.4 Market structures.md",
-    "New Theme 3/3.3 Revenues, costs and profits.md",
-    "New Theme 3/3.2 Business objectives.md",
-    "New Theme 3/3.1 Business Growth.md",
     "New Theme 3",
     "Theme 1/Nature of economics.md",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
     "Theme 4/Globalisation.md",
     "Theme 4/Macroeconomic policies.md",
     "Syllabus Edexel.md",
-    "Balance of payments.md",
-    "Theme 4/Trading blocs and patterns of trade.md",
-    "Theme 4/Trade.md",
     "NetFolder/Theme 4 A Global perspective/CC6 Financial Sector 2020.pdf",
-    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
     "NetFolder/Theme 4 A Global perspective/CC8-Strategies promoting development 2020.pdf",
     "NetFolder/Theme 4 A Global perspective/CC7 Inequality & poverty Simon's version 2020.pdf",
-    "Theme 4/Financial markets.md",
-    "Theme 4/Inequality & poverty.md",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC4. Market failure.pdf",
-    "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC5 Government Failure.pdf",
     "Images/Pasted image 20230420015007.png",
     "Images/Pasted image 20230420014957.png",
     "Images/Pasted image 20230420012836.png",
     "Images/Pasted image 20230419213117.png",
     "Images/Pasted image 20230407181400.png",
     "Images/Pasted image 20230407175554.png",
-    "Images/Pasted image 20230407154151.png",
-    "Images/Pasted image 20230324161508.png",
-    "Images/Pasted image 20230324152710.png",
-    "Images/Pasted image 20230324152003.png"
+    "Images/Pasted image 20230407154151.png"
   ]
 }
