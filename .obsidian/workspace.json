@@ -73,11 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 336.5
   },
   "right": {
     "id": "175a0a7b9db6a366",
@@ -156,43 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "e371e352c37c08cb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "96099868896e105d",
-        "type": "window",
-        "children": [
-          {
-            "id": "51cd8aec4ca3837c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6b6352af63ceebb4",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Edexcel A Level Economics A specification.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2345,
-        "y": 0,
-        "width": 987,
-        "height": 1390,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "10bcbdc93b2649cb",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
+    "Edexcel A Level Economics A specification.pdf",
+    "Theme 3/3.6 Government intervention.md",
     "Theme 4/Trading blocs and patterns of trade.md",
     "Theme 4/4.5 Role of the state in the macroeconomy.md",
     "etc.md",
@@ -203,7 +171,6 @@
     "OffShoots/Economics in Command and Planned economies.md",
     "Index.md",
     "Syllabus Edexel.md",
-    "Edexcel A Level Economics A specification.pdf",
     "Balance of payments.md",
     "Theme 4/Strategies for development.md",
     "Theme 4/Trade.md",
@@ -218,8 +185,6 @@
     "Theme 2/2.4 National income.md",
     "Theme 2/2.3 Aggregate supply.md",
     "Theme 2/2.2 Aggregate demand.md",
-    "Theme 2/2.1 Measures of economic performance.md",
-    "Theme 1/1.4 Government intervention.md",
     "New Theme 4",
     "New Theme 3",
     "Images/Pasted image 20230420015007.png",
