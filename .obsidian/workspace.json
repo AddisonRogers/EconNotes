@@ -149,7 +149,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -233,7 +234,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f8735d8adae9bf8",
+  "active": "a580585ddb566a7b",
   "lastOpenFiles": [
     "Images/Pasted image 20230428160236.png",
     "Images/Pasted image 20230428155232.png",
