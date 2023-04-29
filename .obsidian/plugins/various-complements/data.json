@@ -99,6 +99,54 @@
           "lastUpdated": 1682458888643
         }
       }
+    },
+    "industry": {
+      "industry": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682691666410
+        }
+      }
+    },
+    "entry": {
+      "entry": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682692357243
+        }
+      }
+    },
+    "Geographical": {
+      "Geographical": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682692508124
+        }
+      }
+    },
+    "immobility": {
+      "immobility": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682692527067
+        }
+      }
+    },
+    "appropriate": {
+      "appropriate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682692647417
+        }
+      }
+    },
+    "vacancies": {
+      "vacancies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682692733695
+        }
+      }
     }
   }
 }
