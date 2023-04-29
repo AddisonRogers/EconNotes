@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Theme 3/3.3 Revenues, costs and profits.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,8 +149,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,8 +233,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "0f8735d8adae9bf8",
   "lastOpenFiles": [
+    "Images/Pasted image 20230428160236.png",
+    "Images/Pasted image 20230428155232.png",
+    "README.md",
+    "New Theme 3/3.3 Revenues, costs and profits.md",
     "Images/Pasted image 20230428153202.png",
     "Images/Pasted image 20230428152138.png",
     "Theme 4/4.1 International economies.md",
@@ -247,7 +250,6 @@
     "Edexcel A Level Economics A specification.pdf",
     "Images/Pasted image 20230428150433.png",
     "Images/Pasted image 20230428150301.png",
-    "New Theme 3/3.3 Revenues, costs and profits.md",
     "New Theme 3/3.1 Business Growth.md",
     "New Theme 3/3.2 Business objectives.md",
     "Theme 3/Oligopoly.md",
@@ -261,7 +263,6 @@
     "Theme 2/2.1 Measures of economic performance.md",
     "conflict-files-obsidian-git.md",
     "etc.md",
-    "README.md",
     "New Theme 3/3.6 Government intervention.md",
     "New Theme 3/3.5 Labour Market.md",
     "New Theme 3",
@@ -279,8 +280,6 @@
     "Images/Pasted image 20230420014957.png",
     "Images/Pasted image 20230420012836.png",
     "Images/Pasted image 20230419213117.png",
-    "Images/Pasted image 20230407181400.png",
-    "Images/Pasted image 20230407175554.png",
-    "Images/Pasted image 20230407154151.png"
+    "Images/Pasted image 20230407181400.png"
   ]
 }

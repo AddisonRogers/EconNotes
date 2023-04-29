@@ -147,6 +147,78 @@
           "lastUpdated": 1682692733695
         }
       }
+    },
+    "Competitive": {
+      "Competitive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682693449290
+        }
+      }
+    },
+    "competitive": {
+      "competitive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682693456008
+        }
+      }
+    },
+    "homogeneous": {
+      "homogeneous": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682693576719
+        }
+      }
+    },
+    "non-competitive": {
+      "non-competitive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682693987766
+        }
+      }
+    },
+    "employer": {
+      "employer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682694078677
+        }
+      }
+    },
+    "productivity": {
+      "productivity": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1682694573085
+        }
+      }
+    },
+    "geographical": {
+      "geographical": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682694779554
+        }
+      }
+    },
+    "proportion": {
+      "proportion": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682694814270
+        }
+      }
+    },
+    "economy": {
+      "economy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682694842302
+        }
+      }
     }
   }
 }
