@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0019e5b540d7ab04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "7e44a0f7223a9660",
@@ -106,8 +94,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Edexcel A Level Economics A specification.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Edexcel A Level Economics A specification.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Edexcel A Level Economics A specification.pdf"
               }
             }
           }
@@ -246,13 +233,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0019e5b540d7ab04",
+  "active": "85edc5fa0ef75aac",
   "lastOpenFiles": [
     "Theme 3/Labour markets.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230428160236.png",
     "Images/Pasted image 20230428155232.png",
-    "README.md",
     "New Theme 3/3.3 Revenues, costs and profits.md",
     "Images/Pasted image 20230428153202.png",
     "Images/Pasted image 20230428152138.png",
