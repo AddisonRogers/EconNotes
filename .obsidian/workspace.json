@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "734ed9d5f831e3a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11f912e75f89d855",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theme 3/Market structures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9078880926be7194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theme 3/Oligopoly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9acf5ee994641c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theme 4/4.1 International economies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0f8735d8adae9bf8",
             "type": "leaf",
             "state": {
@@ -67,23 +19,12 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "7e44a0f7223a9660",
         "type": "tabs",
         "children": [
-          {
-            "id": "85edc5fa0ef75aac",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Edexcel A Level Economics A specification.pdf"
-              }
-            }
-          },
           {
             "id": "f9f56834c4bc03e6",
             "type": "leaf",
@@ -91,6 +32,16 @@
               "type": "pdf",
               "state": {
                 "file": "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf"
+              }
+            }
+          },
+          {
+            "id": "fba5ba38bf66b4dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Edexcel A Level Economics A specification.pdf"
               }
             }
           }
@@ -148,8 +99,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edexcel A Level Economics A specification.pdf",
+                "file": "Theme 3/Labour markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edexcel A Level Economics A specification.pdf",
+                "file": "Theme 3/Labour markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edexcel A Level Economics A specification.pdf"
+                "file": "Theme 3/Labour markets.md"
               }
             }
           }
@@ -233,9 +183,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85edc5fa0ef75aac",
+  "active": "0f8735d8adae9bf8",
   "lastOpenFiles": [
+    "Images/Pasted image 20230502102409.png",
+    "Images/Pasted image 20230502102306.png",
+    "Images/Pasted image 20230502102303.png",
+    "Images/Pasted image 20230502093451.png",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
     "Theme 3/Labour markets.md",
+    "Edexcel A Level Economics A specification.pdf",
+    "john_sloman_7th_edition_economics.pdf",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230428160236.png",
@@ -246,9 +203,6 @@
     "Theme 4/4.1 International economies.md",
     "Theme 3/Market structures.md",
     "Theme 3/Introduction to theory of the firm.md",
-    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
-    "john_sloman_7th_edition_economics.pdf",
-    "Edexcel A Level Economics A specification.pdf",
     "Images/Pasted image 20230428150433.png",
     "Images/Pasted image 20230428150301.png",
     "New Theme 3/3.1 Business Growth.md",
@@ -276,9 +230,6 @@
     "NetFolder/Theme 4 A Global perspective/CC8-Strategies promoting development 2020.pdf",
     "NetFolder/Theme 4 A Global perspective/CC7 Inequality & poverty Simon's version 2020.pdf",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC4. Market failure.pdf",
-    "Images/Pasted image 20230420015007.png",
-    "Images/Pasted image 20230420014957.png",
-    "Images/Pasted image 20230420012836.png",
-    "Images/Pasted image 20230419213117.png"
+    "Images/Pasted image 20230420015007.png"
   ]
 }

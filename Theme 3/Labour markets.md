@@ -85,7 +85,7 @@ In a competitive labour market wages are determined by the demand for labour and
 - Perfect knowledge.
 - Firms are 'Wage takers'.
 - Homogeneous labour.
-![[Pasted image 20230428155232.png]]
+![[Pasted image 20230502093451.png]]
 
 In the real world wage rates differ because labour is not homogeneous. Workers differ by the degree of human capital they have as well as by ability. Factors causing differences in wages include:
 - Elasticity of demand and supply of labour.
@@ -127,12 +127,30 @@ The gender pay gap is calculated as the difference between average hourly earnin
 A gig economy is where workers are paid for the gigs they do ie food delivery or a car journey. 
 ## 3.5.3 (C) Government intervention in labour markets 
 
-## Maximum wages
+### Maximum wages
+Governments are less likely to impose minimum wages. However some forms of maximum wage limits have been set in the past:
+- Maximum pay rises were set by the UK government in the 1970s.
+- Maximum reward for chief executives of companies. 
+![[Pasted image 20230502102306.png]]
 
-## Minimum wages
+### Minimum wages
+A statutory minimum wage is the legal minimum rate per hour which employers must pay their workers.  
+![[Pasted image 20230502102409.png]]
+*Low* pay is more likely for:
+- Temporary workers rather than permanent workers.
+- Private sector rather than public sector workers. 
+- Workers employed by small firms rather than large firms. 
+- Newly employed workers.
+- Those working in occupations with low average earnings. 
+- Those working in industries with low average earnings.
 
-## Public sector wage determination 
+If the minimum wage is set above the equilibrium wage rate it will cause an excess supply of labour and therefore create unemployment. 
 
-## Policies to tackle labour market immobility 
+#### The living wage
+The concept of a living wage is one which would provide a reasonable standard of living and enable a person to live debt-free. 
 
-## Marginal productivity theory
+### Public sector wage determination 
+
+### Policies to tackle labour market immobility 
+
+### Marginal productivity theory
