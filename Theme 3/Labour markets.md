@@ -147,10 +147,42 @@ A statutory minimum wage is the legal minimum rate per hour which employers must
 If the minimum wage is set above the equilibrium wage rate it will cause an excess supply of labour and therefore create unemployment. 
 
 #### The living wage
-The concept of a living wage is one which would provide a reasonable standard of living and enable a person to live debt-free. 
+The concept of a living wage is one which would provide a reasonable standard of living and enable a person to live debt-free. The thought behind this is that if you increase the wage for jobs then you will also increase productivity. 
 
 ### Public sector wage determination 
+The government is a significant employer in the UK, although it has declined since 2010.
+![[Pasted image 20230503143928.png]]
+
+- The government has significant influence over wages for public sector workers and for many employees acts as a monopsony employer. 
+- Where trade unions represent public sector workers there will be a process of collective bargaining with resulting pay depending on the relative strength of the trade unions and the monopsony power of the government.
+- Where trade unions are weak wages will be lower.
+- There was a public sector pay freeze from 2010 to 2015.
+- In the UK there is little difference between private and public sector pay when all factors are taken into account such as levels of skill.
+- In some developing countries public sector jobs are highly prized as the wages are higher than the private sector.
 
 ### Policies to tackle labour market immobility 
+- Improving education and training to incorporate more transferable skills. (Occupational)
+- Improving information about job vacancies. (Occupational)
+- Better transport infrastructure. (Geographical)
+- Relocation subsidies. (Geographical)
+- Provision of low cost housing. (Geographical)
+- Reducing discrimination in the labour market. (Occupational)
+- Subsidising firms to locate in areas of high unemployment. (Occupational)
+- Reducing barriers to entering occupations. (Occupational)
 
 ### Marginal productivity theory
+We assume firms aim to maximise profits. In a goods market this means producing up to the point where MC = MR.
+In the labour market the firm will maximise profits where the marginal cost of employing one more worker is equal to the marginal revenue from the output of the last worker.
+**Marginal revenue product**: The marginal revenue product is the addition to total revenue from the last worker employed. 
+
+Assumptions:
+- Workers are homogeneous.
+- Firms have no buying power when demanding labour.
+- There are no trade unions.
+- The productivity of each worker can be easily measured.
+- The supply of labour is perfectly elastic.
+- The product is sold in a perfectly competitive market.
+
+![[Pasted image 20230505092705.png]]
+
+In many cases it is hard to measure labour productivity - if there is no physical output. In many cases wages are set with not consideration of demand for labour. It is useful as a model of the demand for labour in many cases, but to analyse wage differentials, supply side information is needed too.

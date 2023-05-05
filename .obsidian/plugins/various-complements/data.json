@@ -119,8 +119,8 @@
     "Geographical": {
       "Geographical": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682692508124
+          "count": 4,
+          "lastUpdated": 1683274451806
         }
       }
     },
@@ -143,8 +143,8 @@
     "vacancies": {
       "vacancies": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682692733695
+          "count": 2,
+          "lastUpdated": 1683274379361
         }
       }
     },
@@ -159,16 +159,16 @@
     "competitive": {
       "competitive": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682693456008
+          "count": 2,
+          "lastUpdated": 1683274668328
         }
       }
     },
     "homogeneous": {
       "homogeneous": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682693576719
+          "count": 2,
+          "lastUpdated": 1683274625746
         }
       }
     },
@@ -191,8 +191,8 @@
     "productivity": {
       "productivity": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1682694573085
+          "count": 5,
+          "lastUpdated": 1683275238558
         }
       }
     },
@@ -257,6 +257,30 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1683019580575
+        }
+      }
+    },
+    "significant": {
+      "significant": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683121191582
+        }
+      }
+    },
+    "discrimination": {
+      "discrimination": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683274404063
+        }
+      }
+    },
+    "unemployed": {
+      "unemployed": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683274415984
         }
       }
     }
