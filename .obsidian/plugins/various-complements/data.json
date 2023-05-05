@@ -283,6 +283,38 @@
           "lastUpdated": 1683274415984
         }
       }
+    },
+    "poverty": {
+      "poverty": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683278412746
+        }
+      }
+    },
+    "Distinction": {
+      "Distinction": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683278441650
+        }
+      }
+    },
+    "inequality": {
+      "inequality": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1683278877907
+        }
+      }
+    },
+    "countries": {
+      "countries": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683278476731
+        }
+      }
     }
   }
 }
