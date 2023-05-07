@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "75a5ce32a2b3008a",
+        "id": "3e3c769708adc39a",
         "type": "tabs",
         "children": [
+          {
+            "id": "f17cebeea63b8a6a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/core-plugins.json",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "531de3ffbe519344",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf"
+              }
+            }
+          },
           {
             "id": "10bcbdc93b2649cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Theme 3/3.6 Government intervention.md",
-                "mode": "source",
-                "source": false
+                "file": "Edexcel A Level Economics A specification.pdf"
               }
             }
           }
@@ -70,6 +89,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcc31aabd922db1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -153,19 +180,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "f17cebeea63b8a6a",
   "lastOpenFiles": [
+    "Theme 3/3.5 Labour markets.md",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
+    "Edexcel A Level Economics A specification.pdf",
+    "Theme 3/Labour markets.md",
+    "etc.md",
+    "john_sloman_7th_edition_economics.pdf",
+    "README.md",
+    "Theme 3/Introduction to theory of the firm.md",
     "Theme 3/3.6 Government intervention.md",
     "conflict-files-obsidian-git.md",
-    "john_sloman_7th_edition_economics.pdf",
     "Images/Pasted image 20230428153202.png",
     "Images/Pasted image 20230428152138.png",
     "Images/Pasted image 20230428150433.png",
     "Images/Pasted image 20230428150301.png",
-    "Edexcel A Level Economics A specification.pdf",
     "Theme 4/Trading blocs and patterns of trade.md",
     "Theme 4/4.5 Role of the state in the macroeconomy.md",
-    "etc.md",
     "Theme 4/4.4 Financial Sector.md",
     "Theme 4/4.3 Emerging and developing economies.md",
     "Theme 4/4.2 Inequality & poverty.md",
@@ -182,11 +214,6 @@
     "New Theme 3/3.3 Revenues, costs and profits.md",
     "New Theme 3/3.2 Business objectives.md",
     "New Theme 3/3.1 Business Growth.md",
-    "Theme 1/1.1 Nature of economics.md",
-    "Theme 2/2.5 Economic growth.md",
-    "Theme 2/2.4 National income.md",
-    "Theme 2/2.3 Aggregate supply.md",
-    "Theme 2/2.2 Aggregate demand.md",
     "New Theme 4",
     "New Theme 3",
     "Images/Pasted image 20230420015007.png",
@@ -199,7 +226,6 @@
     "Images/Pasted image 20230407175554.png",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC4 govt intervention - latest version.pdf",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC2.pdf",
-    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC1.pdf",
-    "OffShoots"
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC1.pdf"
   ]
 }
