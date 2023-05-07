@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "a232df8462769de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5be972c152a4ee2f",
             "type": "leaf",
             "state": {
@@ -32,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7e44a0f7223a9660",
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 4/4.4 Financial Sector.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 4/4.4 Financial Sector.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 4/4.4 Financial Sector.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -217,10 +230,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "a232df8462769de0",
   "lastOpenFiles": [
-    "NetFolder/Theme 4 A Global perspective/CC6 Financial Sector 2020.pdf",
     "Theme 4/4.4 Financial Sector.md",
+    "conflict-files-obsidian-git.md",
+    "NetFolder/Theme 4 A Global perspective/CC6 Financial Sector 2020.pdf",
     "Edexcel A Level Economics A specification.pdf",
     "NetFolder/Theme 1 Introduction to Markets and Market Failure/CC2 - Demand and supply.pdf",
     "NetFolder/Theme 4 A Global perspective/CC7 Inequality & poverty Simon's version 2020.pdf",

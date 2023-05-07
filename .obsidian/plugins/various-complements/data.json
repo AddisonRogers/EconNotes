@@ -100,10 +100,11 @@
         }
       }
     },
-    "industry": {
-      "industry": {
+    "Non-competitive": {
+      "Non-competitive": {
         "currentFile": {
           "count": 1,
+<<<<<<< HEAD
           "lastUpdated": 1682691666410
         }
       }
@@ -145,6 +146,9 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1683274379361
+=======
+          "lastUpdated": 1682789455286
+>>>>>>> origin/main
         }
       }
     },
