@@ -191,8 +191,8 @@
     "productivity": {
       "productivity": {
         "currentFile": {
-          "count": 5,
-          "lastUpdated": 1683275238558
+          "count": 6,
+          "lastUpdated": 1683298359863
         }
       }
     },
@@ -303,8 +303,8 @@
     "inequality": {
       "inequality": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1683278877907
+          "count": 10,
+          "lastUpdated": 1683298721973
         }
       }
     },
@@ -313,6 +313,46 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1683278476731
+        }
+      }
+    },
+    "agricultural": {
+      "agricultural": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683298354392
+        }
+      }
+    },
+    "capitalism": {
+      "capitalism": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683298589863
+        }
+      }
+    },
+    "Increased": {
+      "Increased": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683299158465
+        }
+      }
+    },
+    "Financial": {
+      "Financial": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1683299825905
+        }
+      }
+    },
+    "financial": {
+      "financial": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683299832629
         }
       }
     }
