@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e4b12a8bb2c23ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 3/3.5 Labour markets.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 3/3.5 Labour markets.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 3/3.5 Labour markets.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -176,8 +188,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a580585ddb566a7b",
+  "active": "4e4b12a8bb2c23ff",
   "lastOpenFiles": [
+    "Theme 3/3.5 Labour markets.md",
+    "conflict-files-obsidian-git.md",
+    "Theme 3/3.4 Market structures.md",
+    "Theme 3/3.3 Revenues, costs and profits.md",
+    "Theme 3/3.2 Business objectives.md",
+    "Theme 3/3.1 Business Growth.md",
+    "Images/Pasted image 20230505155335.png",
+    "Images/Pasted image 20230505102838.png",
+    "Images/Pasted image 20230505102506.png",
+    "Images/Pasted image 20230505102414.png",
+    "Images/Pasted image 20230505092705.png",
+    "Images/Pasted image 20230503143928.png",
+    "Images/Pasted image 20230502102409.png",
+    "Images/Pasted image 20230502102306.png",
+    "Images/Pasted image 20230502102303.png",
+    "Images/Pasted image 20230502093451.png",
     "Theme 3/3.6 Government intervention.md",
     "Theme 3/Oligopoly.md",
     "Theme 3/Introduction to theory of the firm.md",
@@ -187,20 +215,12 @@
     "New Theme 3/3.2 Business objectives.md",
     "New Theme 3/3.5 Labour Market.md",
     "New Theme 3/3.1 Business Growth.md",
-    "Theme 3/3.5 Labour markets.md",
     "Edexcel A Level Economics A specification.pdf",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
-    "conflict-files-obsidian-git.md",
-    "Images/Pasted image 20230428160236.png",
-    "Images/Pasted image 20230428155232.png",
     "Theme 3/Labour markets.md",
     "etc.md",
     "john_sloman_7th_edition_economics.pdf",
     "README.md",
-    "Images/Pasted image 20230428153202.png",
-    "Images/Pasted image 20230428152138.png",
-    "Images/Pasted image 20230428150433.png",
-    "Images/Pasted image 20230428150301.png",
     "Theme 4/Trading blocs and patterns of trade.md",
     "Theme 4/4.5 Role of the state in the macroeconomy.md",
     "Theme 4/4.4 Financial Sector.md",
@@ -209,16 +229,8 @@
     "Theme 4/4.1 International economies.md",
     "OffShoots/Economics in Command and Planned economies.md",
     "Index.md",
-    "Syllabus Edexel.md",
-    "Balance of payments.md",
-    "Theme 4/Strategies for development.md",
-    "Theme 4/Trade.md",
     "New Theme 4",
     "New Theme 3",
-    "Images/Pasted image 20230420015007.png",
-    "Images/Pasted image 20230420014957.png",
-    "Images/Pasted image 20230420012836.png",
-    "Images/Pasted image 20230419213117.png",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy ST 2022.pdf",
     "NetFolder/Theme 4 A Global perspective/CC9 Macroeconomic policy.pdf",
     "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC4 govt intervention - latest version.pdf",
