@@ -21,13 +21,16 @@
             "id": "10bcbdc93b2649cb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Edexcel A Level Economics A specification.pdf"
+                "file": "Theme 3/3.5 Labour markets.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Theme 3/3.5 Labour markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Theme 3/3.5 Labour markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Theme 3/3.5 Labour markets.md"
+              }
             }
           }
         ]
@@ -171,18 +178,25 @@
   },
   "active": "a580585ddb566a7b",
   "lastOpenFiles": [
+    "Theme 3/3.6 Government intervention.md",
+    "Theme 3/Oligopoly.md",
+    "Theme 3/Introduction to theory of the firm.md",
+    "Theme 3/Market structures.md",
+    "New Theme 3/3.3 Revenues, costs and profits.md",
+    "New Theme 3/3.4 Market structures.md",
+    "New Theme 3/3.2 Business objectives.md",
+    "New Theme 3/3.5 Labour Market.md",
+    "New Theme 3/3.1 Business Growth.md",
+    "Theme 3/3.5 Labour markets.md",
+    "Edexcel A Level Economics A specification.pdf",
+    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230428160236.png",
     "Images/Pasted image 20230428155232.png",
-    "Theme 3/3.5 Labour markets.md",
-    "NetFolder/Theme 3 Business Behaviour and the Labour Market/CC5 labour market Jill version 2020.pdf",
-    "Edexcel A Level Economics A specification.pdf",
     "Theme 3/Labour markets.md",
     "etc.md",
     "john_sloman_7th_edition_economics.pdf",
     "README.md",
-    "Theme 3/Introduction to theory of the firm.md",
-    "Theme 3/3.6 Government intervention.md",
     "Images/Pasted image 20230428153202.png",
     "Images/Pasted image 20230428152138.png",
     "Images/Pasted image 20230428150433.png",
@@ -199,12 +213,6 @@
     "Balance of payments.md",
     "Theme 4/Strategies for development.md",
     "Theme 4/Trade.md",
-    "Theme 4/Globalisation.md",
-    "New Theme 3/3.5 Labour Market.md",
-    "New Theme 3/3.4 Market structures.md",
-    "New Theme 3/3.3 Revenues, costs and profits.md",
-    "New Theme 3/3.2 Business objectives.md",
-    "New Theme 3/3.1 Business Growth.md",
     "New Theme 4",
     "New Theme 3",
     "Images/Pasted image 20230420015007.png",
