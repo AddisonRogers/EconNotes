@@ -104,259 +104,71 @@
       "Non-competitive": {
         "currentFile": {
           "count": 1,
-<<<<<<< HEAD
-          "lastUpdated": 1682691666410
-        }
-      }
-    },
-    "entry": {
-      "entry": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682692357243
-        }
-      }
-    },
-    "Geographical": {
-      "Geographical": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1683274451806
-        }
-      }
-    },
-    "immobility": {
-      "immobility": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1682692527067
-        }
-      }
-    },
-    "appropriate": {
-      "appropriate": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682692647417
-        }
-      }
-    },
-    "vacancies": {
-      "vacancies": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1683274379361
-=======
           "lastUpdated": 1682789455286
->>>>>>> origin/main
         }
       }
     },
-    "Competitive": {
-      "Competitive": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682693449290
-        }
-      }
-    },
-    "competitive": {
-      "competitive": {
+    "individuals": {
+      "individuals": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1683274668328
+          "lastUpdated": 1683504061075
         }
       }
     },
-    "homogeneous": {
-      "homogeneous": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1683274625746
-        }
-      }
-    },
-    "non-competitive": {
-      "non-competitive": {
+    "Asymmeric": {
+      "Asymmeric": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1682693987766
+          "lastUpdated": 1683503970467
         }
       }
     },
-    "employer": {
-      "employer": {
+    "Borrowing": {
+      "Borrowing": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1682694078677
+          "lastUpdated": 1683504407023
         }
       }
     },
-    "productivity": {
-      "productivity": {
-        "currentFile": {
-          "count": 6,
-          "lastUpdated": 1683298359863
-        }
-      }
-    },
-    "geographical": {
-      "geographical": {
+    "mortgages": {
+      "mortgages": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1682694779554
+          "lastUpdated": 1683504628122
         }
       }
     },
-    "proportion": {
-      "proportion": {
+    "investment": {
+      "investment": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1682694814270
+          "lastUpdated": 1683504832706
         }
       }
     },
-    "economy": {
-      "economy": {
+    "Money": {
+      "Money": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1682694842302
+          "lastUpdated": 1683506346241
         }
       }
     },
-    "Governemnts": {
-      "Governemnts": {
+    "monetary": {
+      "monetary": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1683019222947
+          "lastUpdated": 1683506410703
         }
       }
     },
-    "Government": {
-      "Government": {
+    "system": {
+      "system": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1683019228129
-        }
-      }
-    },
-    "Maximum": {
-      "Maximum": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1683019294530
-        }
-      }
-    },
-    "government": {
-      "government": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683019281654
-        }
-      }
-    },
-    "wages": {
-      "wages": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683019580575
-        }
-      }
-    },
-    "significant": {
-      "significant": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683121191582
-        }
-      }
-    },
-    "discrimination": {
-      "discrimination": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683274404063
-        }
-      }
-    },
-    "unemployed": {
-      "unemployed": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683274415984
-        }
-      }
-    },
-    "poverty": {
-      "poverty": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1683278412746
-        }
-      }
-    },
-    "Distinction": {
-      "Distinction": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683278441650
-        }
-      }
-    },
-    "inequality": {
-      "inequality": {
-        "currentFile": {
-          "count": 10,
-          "lastUpdated": 1683298721973
-        }
-      }
-    },
-    "countries": {
-      "countries": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683278476731
-        }
-      }
-    },
-    "agricultural": {
-      "agricultural": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683298354392
-        }
-      }
-    },
-    "capitalism": {
-      "capitalism": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683298589863
-        }
-      }
-    },
-    "Increased": {
-      "Increased": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683299158465
-        }
-      }
-    },
-    "Financial": {
-      "Financial": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1683299825905
-        }
-      }
-    },
-    "financial": {
-      "financial": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683299832629
+          "lastUpdated": 1683506494431
         }
       }
     }
